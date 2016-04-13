@@ -1,23 +1,16 @@
+from permutations import permutations
 
 
 def is_magic(grid):
     """
     compute whether the input grid is a magic square: i.e. each row, column and major diagonal adds up to 15
+    OPTIMIZATION: as others pointed out in the reddit thread, since we are rearranging rows, we know that
+     the sum of each row and column is always correct. therefore, we only need to check diagonals.
     :param grid: input grid
     :return: boolean
     """
     n = len(grid)
     target = int(n * (n**2 + 1) / 2)
-
-    # check row-wise
-    for row in grid:
-        if sum(row) != target:
-            return False
-
-    # check column wise
-    for col in range(0, len(grid)):
-        if sum([grid[row][col] for row in range(0, len(grid[col]))]) != target:
-            return False
 
     # check diagonals
     if sum([grid[k][k] for k in range(0, len(grid))]) != target:
@@ -43,59 +36,12 @@ def apply_permutation(original_list, new_list, p):
     return new_list
 
 
-def make_tree(datum, remaining):
-    if len(remaining) == 0:
-        return {
-            'p': datum,
-            'leaves': []
-        }
-
-    # construct the leaves using the remaining values
-    # leaves = [make_tree(remaining[i], remaining) for i in range(0, len(remaining))]
-    leaves = []
-    for num in remaining:
-        leaves.append(make_tree(datum + [num], [item for item in remaining if item != num]))
-
-    return {
-        'p': datum,
-        'leaves': leaves
-    }
-
-
-def get_leaves(tree):
-
-    leaves = []
-    for leaf in tree['leaves']:
-        if len(leaf['leaves']) == 0:
-            leaves.append(leaf['p'])
-        else:
-            leaves.extend(get_leaves(leaf))
-
-    return leaves
-
-
-def find_square_by_rearranging(grid):
-    new_list = [x for x in grid]
-
-    x = make_tree([], [i for i in range(0, len(grid))])
-
-    for permutation in get_leaves(x):
-        new_list = apply_permutation(grid, new_list, permutation)
-        if is_magic(new_list):
-            return new_list
-
-    return False
-
-
 def num_possible_rearrangements(grid):
     num = 0
     new_list = [x for x in grid]
 
-    x = make_tree([], [i for i in range(0, len(grid))])
-    y = get_leaves(x)
-
-    for permutation in y:
-        new_list = apply_permutation(grid, new_list, permutation)
+    for perm in permutations([i for i in range(0, len(grid))]):
+        new_list = apply_permutation(grid, new_list, perm)
         if is_magic(new_list):
             num += 1
 
@@ -104,16 +50,23 @@ def num_possible_rearrangements(grid):
 
 if __name__ == '__main__':
     tests = [
-        [[15, 14, 1, 4], [12, 6, 9, 7], [2, 11, 8, 13], [5, 3, 16, 10]],
+        [
+            [15, 14, 1, 4],
+            [12, 6, 9, 7],
+            [2, 11, 8, 13],
+            [5, 3, 16, 10]
+        ],
 
-        [[20, 19, 38, 30, 31, 36, 64, 22],
-         [8, 16, 61, 53, 1, 55, 32, 34],
-         [33, 60, 25, 9, 26, 50, 13, 44],
-         [37, 59, 51, 4, 41, 6, 23, 39],
-         [58, 35, 2, 48, 10, 40, 46, 21],
-         [62, 11, 54, 47, 45, 7, 5, 29],
-         [18, 57, 17, 27, 63, 14, 49, 15],
-         [24, 3, 12, 42, 43, 52, 28, 56]],
+        [
+            [20, 19, 38, 30, 31, 36, 64, 22],
+             [8, 16, 61, 53, 1, 55, 32, 34],
+             [33, 60, 25, 9, 26, 50, 13, 44],
+             [37, 59, 51, 4, 41, 6, 23, 39],
+             [58, 35, 2, 48, 10, 40, 46, 21],
+             [62, 11, 54, 47, 45, 7, 5, 29],
+             [18, 57, 17, 27, 63, 14, 49, 15],
+             [24, 3, 12, 42, 43, 52, 28, 56]
+        ],
 
         [
             [111, 129, 27, 38, 119, 73, 30, 11, 123, 144, 6, 59],
