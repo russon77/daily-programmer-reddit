@@ -43,7 +43,7 @@ class Card(object):
 
     def __init__(self, suit=None, value=None, from_string=None):
         if from_string is not None:
-            pass
+            self.value, self.suit = from_string.split(",")
         else:
             self.suit = suit
             self.value = value
@@ -52,9 +52,8 @@ class Card(object):
         return self.value + "," + self.suit
 
     @staticmethod
-    def min_value(*cards):
-        # todo implement me
-        pass
+    def min_value(cards):
+        return sum([Card.VALUES[x.value] for x in cards])
 
     @staticmethod
     def random():

@@ -7,8 +7,9 @@ from config import SERVER_PORT
 def listen_thread(sock):
     while True:
         data = sock.recv(128)
-        data = data.decode("utf-8")
-        print(data)
+        if len(data) > 0:
+            data = data.decode("utf-8")
+            print(data)
 
 
 if __name__ == '__main__':
