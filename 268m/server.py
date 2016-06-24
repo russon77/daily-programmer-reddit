@@ -26,14 +26,19 @@ class Server(object):
         server_socket.bind((socket.gethostname(), SERVER_PORT))
         server_socket.listen()
 
-        while len(self.clients) == 0 or len(self.not_ready) == 0:
-            client = Client(*server_socket.accept())
+        server_socket.settimeout(1.5)
 
-            self.not_ready[client.uuid] = True
-            self.clients.append(client)
+        while len(self.clients) == 0 or len(self.not_ready) > 0:
+            try:
+                client = Client(*server_socket.accept())
 
-            client_thread = Thread(target=self.client_thread_wait_for_ready, args=(client,))
-            client_thread.run()
+                self.not_ready[client.uuid] = True
+                self.clients.append(client)
+
+                client_thread = Thread(target=self.client_thread_wait_for_ready, args=(client,), daemon=True)
+                client_thread.start()
+            except socket.timeout:
+                continue
 
         # play the blackjack game:
         consecutive_passes = 0
@@ -69,21 +74,23 @@ class Server(object):
 
         # decide winner and send to all clients
         # todo
-        for player in self.clients:
-            player.client_socket.send(b"Game over!")
+        # for player in self.clients:
+        #     player.client_socket.send(b"Game over!")
 
     def client_thread_wait_for_ready(self, client):
-        client.client_socket.setblocking(0)
+        # todo respond to socket closing, errors
         while True:
             try:
                 data = client.client_socket.recv(128)
                 data = data.decode("utf-8")
+                print(data)
 
                 if data == "START":
                     del self.not_ready[client.uuid]
-                    client.client_socket.setblocking(None)
 
                     return
+            except BlockingIOError:
+                continue
 
 if __name__ == '__main__':
     server = Server(SERVER_PORT)
