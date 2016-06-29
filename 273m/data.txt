@@ -1,0 +1,3535 @@
+==Letters with diacritics==
+Letters with [[diacritics]].
+<!-- ordered by Unicode Collation http://unicode.org/charts/collation -->
+{| class="wikitable Unicode sortable" style="margin:0.5em auto; width:90%; border-collapse:collapse;"
+|-
+! style="background: #efefef; text-align: center" | Letter !! Name !! Notes
+|---
+|[[À|À à]]||A with [[Grave accent|grave]]||Awing, Baka, Bangolan, Bribri, Catalan, Dii, French, Galician, Gokana, Hän, Igbo, Italian, Kako, Kaska, Kiowa, Kwanja, Lithuanian, Luba-Kasai, Manenguba, Mbodomo, Medumba, Mundani, Nateni, Navajo, Ngbaka Minagende, Ngomba, Ntcham, Ogba, Pinyin transliteration, Portuguese, Scottish Gaelic, Sekani, Tagish, Taos, Tee, Tigon, Tutchone, Vietnamese, Welsh, and Yoruba; Pe̍h-oē-jī, Taiwanese Romanization System
+|-
+|[[Á|Á á]]||A with [[Acute accent|acute]]||Afrikaans, Awing, Baka, Bana, Bangolan, Blackfoot, Bribri, Chipewyan, Czech, Dii, Dutch, Ewondo, Faroese, Galician, Hungarian, Icelandic, Igbo, Iñapari, Irish, Kako, Kaska, Kemezung, Kiowa, Kwanja, Lakota, Lingala, Lithuanian, Lycian transliteration, Mandi, Manenguba, Mbelime, Mbodomo, Medumba, Nateni, Navajo, Ngiemboon, Ngomba, Noni, Ntcham, Nyang, Nzime, Occitan, Omaha-Ponca, Osage, Pana, Pinyin transliteration, Portuguese, Proto-Indo-European, Pu-Xian Min, Romanian, Sámi, Scottish Gaelic, Sekani, Seneca, Slovak, Spanish, Tee, Tigon, Tucano, Tutchone, Vietnamese, Welsh, Winnebago, Yaghnobi, Yambasa, Yoruba, and Yurutí,; Pe̍h-oē-jī, Taiwanese Romanization System
+|---
+|[[Â|Â â]]||A with [[circumflex]]||Afrikaans, Awing, Bangolan, Berber, Dutch, Ewondo, French, Friulian, Frisian, Hän, Istro-Romanian, Jarai, Kako, Kaska, Kiowa, Kwanja, Accented Latvian, Lingala, Luxembourgian, Manenguba, Medumba, Mengleno-Romanian, Ngbaka Minagende, Ngiemboon, Nzime, Ogba, Old High German, Pana, Proto-Germanic, Portuguese, Pu-Xian Min, Romanian, Sámi, Tagish, Tigon, Turkish, Vietnamese, Walloon, Welsh, and Yoruba; Pe̍h-oē-jī, Taiwanese Romanization System, iSO 9
+|---
+|[[Ầ|Ầ ầ]]||A with [[circumflex]] and [[Grave accent|grave]]||Vietnamese
+|---
+|[[Ấ|Ấ ấ]]||A with [[circumflex]] and [[Acute accent|acute]]||Romanian, Vietnamese
+|---
+|[[Ẫ|Ẫ ẫ]]||A with [[circumflex]] and [[tilde]]||Vietnamese
+|---
+|[[Ẩ|Ẩ ẩ]]||A with [[circumflex]] and [[hook above]]||Vietnamese
+|---
+|[[Ã|Ã ã]]||A with tilde||Apalai, Aromanian, Bariba, Boko, Bribri, Accented Czech, Gokana, Guaraní, Kashubian, Kaska, Accented Latvian, Lithuanian, Lycian transliteration, Ngbaka Minagende, Proto-Indo-European, Portuguese, Tee, Tucano, Turka, Vietnamese, !Xóõ, Yoruba, Yurutí, Old Norse
+|---
+|[[Ã̀|Ã̀ ã̀]]||A with tilde and grave||Boko, Bribri, Gokana, Ngbaka Minagende, Tee
+|---
+|[[Ã́|Ã́ ã́]]||A with tilde and acute||[[Bribri language|Bribri]], Lycian transliteration, [[Tee language|Tee]], [[Tucano language|Tucano]], [[Yurutí language|Yurutí]]
+|---
+|[[Ã̂|Ã̂ ã̂]]||A with tilde and circumflex||Ngbaka Minagende
+|---
+|[[Ã̌|Ã̌ ã̌]]||A with tilde and caron||Boko, Ngbaka Minagende
+|---
+|[[Ã̍|Ã̍ ã̍]]||A with tilde and vertical line||Ngbaka Minagende
+|---
+|[[Ã̎|Ã̎ ã̎]]||A with tilde and double vertical line||
+|---
+|[[Ā|Ā ā]]||A with macron||Bangolan, Ewondo, Hawaiian, Igbo, Kaska, Kiowa, Latin, Latvian, Māori, Mbelime, Medumba, Middle High German, Nahuatl, Nyang, Ogba, Pinyin (both language and Chinese transliteration system), Proto-Germanic, Proto-Indo-European, Pu-Xian Min, Skolt Sámi, Samoan, Samogitian, Sanskrit Transliteration, Tagish, Tahitian, Tongan, Tutchone, Wuzlam; Pe̍h-oē-jī, Taiwanese Romanization System, ziSO 9
+|---
+|[[Ā̀|Ā̀ ā̀]]||A with macron and grave||[[Kaska language|Kaska]], Latin, Sanskrit Transliteration, Tagish
+|---
+|[[Ā́|Ā́ ā́]]||A with macron and acute||Kaska, Latin, Proto-Indo-European, Sanskrit Transliteration
+|---
+|[[Ā̂|Ā̂ ā̂]]||A with macron and circumflex||Kaska, Proto-Germanic, Tagish
+|---
+|[[Ā̃|Ā̃ ā̃]]||A with macron and tilde||Proto-Indo-European, Sanskrit Transliteration
+|---
+|[[Ā̃́|Ā̃́ ā̃́]]||A with macron and tilde and acute||Proto-Indo-European
+|---
+|[[Ā̄|Ā̄ ā̄]]||A with macron and macron||[[Kienning Colloquial Romanized]] transliteration
+|---
+|[[Ā̆|Ā̆ ā̆]]||A with macron and breve||Latin, Middle High German, Proto-Indo-European
+|---
+|[[Ā̆́|Ā̆́ ā̆́]]||A with macron and breve and acute||Latin
+|---
+|[[Ā̈|Ā̈ ā̈]]||A with macron and diaeresis||Svan transliteration
+|---
+|[[Ā̊|Ā̊ ā̊]]||A with macron and ring above||Avestan transliteration
+|---
+|[[Ā̌|Ā̌ ā̌]]||A with macron and caron||Greek transliteration, Kaska, Tagish
+|---
+|[[Ă|Ă ă]]||A with [[breve]]||Istro-Romanian, Jarai, Latin, Mengleno-Romanian, Middle High German, [[Romanian alphabet|Romanian]], Sámi, Vietnamese; previously used in Malay; ISO 9; cf. Cyrillic: [[Ӑ|Ӑ ӑ]]
+|---
+|[[Ằ|Ằ ằ]]||A with [[breve]] and [[Grave accent|grave]]||Latin, Vietnamese
+|---
+|[[Ắ|Ắ ắ]]||A with [[breve]] and [[Acute accent|acute]]||Latin, Romanian, [[Vietnamese alphabet|Vietnamese]]
+|---
+|[[Ẵ|Ẵ ẵ]]||A with [[breve]] and [[tilde]]||Vietnamese
+|---
+|[[Ẳ|Ẳ ẳ]]||A with [[breve]] and [[hook above]]||Vietnamese
+|---
+|[[Ȧ|Ȧ ȧ]]||A with dot above||Cheyenne, Old High German, Skolt Sámi, Ulithian
+|---
+|[[Ȧ́|Ȧ́ ȧ́]]||A with dot above and acute||
+|---
+|[[Ǡ|Ǡ ǡ]]||A with dot above and macron||Skolt Sámi
+|---
+|[[Ä|Ä ä]]||A with diaeresis||Afrikaans, Chipewyan, Dinka, Dutch, Emiliano-Romagnolo, Estonian, Finnish, Gagauz, German, Hän, Kaqchikel, Karelian, Luxembourgian, North Frisian, Rotuman, Sámi, Saterlandic, Seneca, Slovak, Tatar, Turkmen, Tutchone, Ulster-Scots, West Frisian, Welsh, and Yapese; previously used in Azerbaijani; ISO 9; cf. Cyrillic: [[Ӓ|Ӓ ӓ]]
+|---
+|[[Ä́|Ä́ ä́]]||A with diaeresis and acute||Seneca, [[Tutchone language|Tutchone]], Middle High German
+|---
+|[[Ä̀|Ä̀ ä̀]]||A with diaeresis and grave||[[Hän language|Hän]], Tutchone
+|---
+|[[Ä̂|Ä̂ ä̂]]||A with diaeresis and circumflex||Hän, Middle High German
+|---
+|[[Ä̃|Ä̃ ä̃]]||A with diaeresis and tilde||
+|---
+|[[Ǟ|Ǟ ǟ]]||A with diaeresis and macron||[[Livonian language|Livonian]], Middle High German, Skolt Sámi, Tutchone
+|---
+|[[Ǟ̆|Ǟ̆ ǟ̆]]||A with diaeresis and macron and breve||Middle High German
+|---
+|[[Ä̆|Ä̆ ä̆]]||A with diaeresis and breve||Middle High German
+|---
+|[[Ä̌|Ä̌ ä̌]]||A with diaeresis and caron||Hän
+|---
+|[[Ả|Ả ả]]||A with hook above||Vietnamese
+|---
+|[[Å|Å å]]||A with ring above||Chamorro, Danish, Emiliano-Romagnolo, Greenlandic, Istro-Romanian, Middle High German, North Frisian, Norwegian, Old High German, Sámi, Swedish, and Walloon
+|---
+|[[Ǻ|Ǻ ǻ]]||A with ring above and acute||Danish
+|---
+|[[Å̂|Å̂ å̂]]||A with ring above and circumflex||Middle High German
+|---
+|[[Å̃|Å̃ å̃]]||A with ring above and tilde||Old Norse
+|---
+|[[Å̄|Å̄ å̄]]||A with ring above and macron||Old High German
+|---
+|[[Å̄̆|Å̄̆ å̄̆]]||A with ring above and macron and breve||Old High German
+|---
+|[[Å̆|Å̆ å̆]]||A with ring above and breve||Old High German
+|---
+|[[A̋|A̋ a̋]]||A with double acute||[[ISO 9]], Old High German, Slovak (rarely used), [[Taiwanese Romanization System]]
+|---
+|[[Ǎ|Ǎ ǎ]]||A with [[caron]]||Awing, Bangolan, Ewondo, Hän, Hyam, Kaska, Kemezung, Kwanja, Lingala, Manenguba, Medumba, Mundani, Ngbaka Minagende, Ngiemboon, Ngomba, Nzime, Pinyin transliteration, Tagish, Tigon, Yoruba
+|---
+|[[A̍|A̍ a̍]]||A with vertical line||Ngbaka Minagende, [[Pe̍h-ōe-jī]], Taiwanese Romanization System and other transliteraons of Chinese dialects.
+|---
+|[[A̎|A̎ a̎]]||A with double vertical line||[[Pe̍h-ōe-jī]], Taiwanese Romanization System and other transliteratons of Chinese dialects.
+|---
+|[[Ȁ|Ȁ ȁ]]||A with double grave||Bangolan, Croatian
+|---
+|[[Ȃ|Ȃ ȃ]]||A with inverted breve||Croatian, Old Church Slavonic transliteration
+|---
+|[[A̐|A̐ a̐]]||A with chandrabindu||[[ALA-LC]]
+|---
+|[[A̓|A̓ a̓]]||A with comma above||Greek transliteration, [[Heiltsuk dialect|Heiltsuk]]
+|---
+|[[A̧|A̧ a̧]]||A with cedilla||[[General Alphabet of Cameroon Languages]]: [[Dii language|Dii]], [[Mundani language|Mundani]], and [[Pana language|Pana]]
+|---
+|[[À̧|À̧ à̧]]||A with grave and cedilla||Dii, Mundani
+|---
+|[[Á̧|Á̧ á̧]]||A with acute and cedilla||Dii, Pana
+|---
+|[[Â̧|Â̧ â̧]]||A with circumflex and cedilla||Pana
+|---
+|[[Ǎ̧|Ǎ̧ ǎ̧]]||A with caron and cedilla||Mundani
+|---
+|[[A̭|A̭ a̭]]||A with circumflex below||[[Juǀʼhoansi]]
+|---
+|[[A̰|A̰ a̰]]||A with tilde below||Arabic transliteration, [[Ngambay language|Ngambay]], [[Zarma language|Zarma]]
+|---
+|[[À̰|À̰ à̰]]||A with tilde below and grave||Nateni
+|---
+|[[Á̰|Á̰ á̰]]||A with tilde below and acute||Mbelime, Nateni
+|---
+|[[Ā̰|Ā̰ ā̰]]||A with tilde below and macron||Mbelime
+|---
+|[[Ä̰|Ä̰ ä̰]]||A with tilde below and diaeresis||
+|---
+|[[Ä̰́|Ä̰́ ä̰́]]||A with tilde below, diaeresis, and acute||
+|---
+|[[Ą|Ą ą]]||A with [[ogonek]]||Chipewyan, Creek, Elfdalian, Gwich'in, Hän, Hocąk, Iñapari, Kashubian, Kaska, Lithuanian, Mescalero-Chiricahua, Navajo, Polish, Sekani, Tagish, Tlingit, Tutchone, Western Apache, and Winnebago
+|---
+|[[Ą̀|Ą̀ ą̀]]||A with grave and ogonek||Hän, Kaska, Navajo, Sekani, Tagish, Tutchone
+|---
+|[[Ą́|Ą́ ą́]]||A with acute and ogonek||Chipewyan, Iñapari, Kaska, Lithuanian, Navajo, Omaha-Ponca, Osage, Sekani, Tutchone, Winnebago
+|---
+|[[Ą̂|Ą̂ ą̂]]||A with circumflex and ogonek||Hän, Kaska, Tagish
+|---
+|[[Ą̃|Ą̃ ą̃]]||A with tilde and ogonek||Lithuanian
+|---
+|[[Ą̄|Ą̄ ą̄]]||A with macron and ogonek||Kaska, Tagish, Tutchone, Old Norse, Proto-Germanic, Tagish, Tutchone
+|---
+|[[Ą̄̀|Ą̄̀ ą̄̀]]||A with macron, grave and ogonek||Kaska, Tagish
+|---
+|[[Ą̄́|Ą̄́ ą̄́]]||A with macron, acute and ogonek||Kaska, Old Norse
+|---
+|[[Ą̄̂|Ą̄̂ ą̄̂]]||A with macron, circumflex and ogonek||Kaska, Tagish
+|---
+|[[Ą̄̌|Ą̄̌ ą̄̌]]||A with macron, caron and ogonek||Kaska, Tagish
+|---
+|[[Ą̇|Ą̇ ą̇]]||A with dot above and ogonek||Avestan transliteration
+|---
+|[[Ą̈|Ą̈ ą̈]]||A with diaeresis and ogonek||Hän, Southern Tutchone
+|---
+|[[Ą̈̀|Ą̈̀ ą̈̀]]||A with diaeresis, grave and ogonek||Hän
+|---
+|[[Ą̈́|Ą̈́ ą̈́]]||A with diaeresis, acute and ogonek||Southern Tutchone
+|---
+|[[Ą̈̂|Ą̈̂ ą̈̂]]||A with diaeresis, circumflex and ogonek||Hän
+|---
+|[[Ą̈̌|Ą̈̌ ą̈̌]]||A with diaeresis, caron and ogonek||Hän
+|---
+|[[Ą̈̄|Ą̈̄ ą̈̄]]||A with diaeresis, macron and ogonek||
+|---
+|[[Ą̊|Ą̊ ą̊]]||A with ring above and ogonek||[[Elfdalian language|Elfdalian]]
+|---
+|[[Ą̌|Ą̌ ą̌]]||A with caron and ogonek||Hän, Tagish
+|---
+|[[Ą̋|Ą̋ ą̋]]||A with double acute and ogonek||
+|---
+|[[Ą̱|Ą̱ ą̱]]||A with ogonek and line below||
+|---
+|[[Ą̱̀|Ą̱̀ ą̱̀]]||A with ogonek, line below and grave||
+|---
+|[[Ą̱̀|Ą̱̀ ą̱̀]]||A with ogonek, line below and acute||
+|---
+|[[A᷎|A᷎ a᷎]]||A with ogonek above||
+|---
+|[[A̱|A̱ a̱]]||A with line below||Arabic transliteration, Bribri, Coast Tsimshian, Estonian Swedish, German dialectology, Hyam, Kiowa, Koasati, Kwak'wala, Mazatec, [[Nuer language|Nuer]], Seneca
+|---
+|[[À̱|À̱ à̱]]||A with line below and grave||Kiowa
+|---
+|[[Á̱|Á̱ á̱]]||A with line below and acute||Kiowa, Seneca
+|---
+|[[Â̱|Â̱ â̱]]||A with line below and circumflex||Kiowa
+|---
+|[[Ã̱|Ã̱ ã̱]]||A with line below and tilde||
+|---
+|[[Ā̱|Ā̱ ā̱]]||A with line below and macron||Kiowa
+|---
+|[[Ā̱̀|Ā̱̀ ā̱̀]]||A with line below, macron, and grave||Kiowa
+|---
+|[[Ā̱́|Ā̱́ ā̱́]]||A with line below, macron, and acute||Kiowa
+|---
+|[[Ā̱̂|Ā̱̂ ā̱̂]]||A with line below, macron, and circumflex||Kiowa
+|---
+|[[Ä̱|Ä̱ ä̱]]||A with line below and diaeresis||Estonian Swedish, German dialectology, Seneca
+|---
+|[[Ä̱̀|Ä̱̀ ä̱̀]]||A with line below, diaeresis and grave||
+|---
+|[[Ä̱́|Ä̱́ ä̱́]]||A with line below, diaeresis and acute||
+|---
+|[[Ä̱̂|Ä̱̂ ä̱̂]]||A with line below, diaeresis and circumflex||
+|---
+|[[Ä̱̌|Ä̱̌ ä̱̌]]||A with line below, diaeresis and caron||
+|---
+|[[Å̱|Å̱ å̱]]||A with line below and ring above||Estonian Swedish
+|---
+|[[Ǎ̱|Ǎ̱ ǎ̱]]||A with line below and caron||Hyam
+|---
+|[[A̱̥|A̱̥ a̱̥]]||A with line below and ring below||Arabic transliteration
+|---
+|[[Ạ|Ạ ạ]]||A with dot below||Avokaya, Thompson, Vietnamese
+|---
+|[[Ạ́|Ạ́ ạ́]]||A with acute and dot below||Thompson
+|---
+|[[Ạ̀|Ạ̀ ạ̀]]||A with grave and dot below||Thompson
+|---
+|[[Ậ|Ậ ậ]]||A with circumflex and dot below||Vietnamese
+|---
+|[[Ạ̃|Ạ̃ ạ̃]]||A with tilde and dot below||ISO 9
+|---
+|[[Ạ̄|Ạ̄ ạ̄]]||A with macron and dot below||ALA-LC romanization
+|---
+|[[Ặ|Ặ ặ]]||A with breve and dot below||Vietnamese
+|---
+|[[Ạ̈|Ạ̈ ạ̈]]||A with diaeresis and dot below||ISO 9, Old High German
+|---
+|[[Ạ̈̀|Ạ̈̀ ạ̈̀]]||A with diaeresis and grave and dot below||
+|---
+|[[Ạ̈́|Ạ̈́ ạ̈́]]||A with diaeresis and acute and dot below||
+|---
+|[[Ạ̈̂|Ạ̈̂ ạ̈̂]]||A with diaeresis and circumflex and dot below||
+|---
+|[[Ạ̈̌|Ạ̈̌ ạ̈̌]]||A with diaeresis and caron and dot below||
+|---
+|[[Ạ̌|Ạ̌ ạ̌]]||A with caron and dot below||
+|---
+|[[Ạ̍|Ạ̍ ạ̍]]||A with vertical line and dot below||
+|---
+|[[A̤|A̤ a̤]]||A with diaeresis below||German dialectology, Pu-Xian Min
+|---
+|[[À̤|À̤ à̤]]||A with diaeresis below and grave||
+|---
+|[[Á̤|Á̤ á̤]]||A with diaeresis below and acute||
+|---
+|[[Â̤|Â̤ â̤]]||A with diaeresis below and circumflex||
+|---
+|[[Ä̤|Ä̤ ä̤]]||A with diaeresis below and diaeresis||
+|---
+|[[Ḁ|Ḁ ḁ]]||A with ring below||Old Chinese transliteration, Arabic transliteration, Pashto transliteration, Persian transliteration
+|---
+|[[Ḁ̂|Ḁ̂ ḁ̂]]||A with ring below and circumflex||Old Chinese transliteration, Arabic transliteration, Pashto transliteration, Persian transliteration
+|---
+|[[Ḁ̈|Ḁ̈ ḁ̈]]||A with ring below and diaeresis||
+|---
+|[[A̯|A̯ a̯]]||A with inverted breve below||IPA and other phonetic alphabets
+|---
+|[[A̩|A̩ a̩]]||A with vertical line below||
+|---
+|[[À̩|À̩ à̩]]||A with vertical line below and grave||
+|---
+|[[Á̩|Á̩ á̩]]||A with vertical line below and acute||
+|---
+|[[Â̩|Â̩ â̩]]||A with vertical line below and circumflex||
+|---
+|[[Ã̩|Ã̩ ã̩]]||A with vertical line below and tilde||
+|---
+|[[Ā̩|Ā̩ ā̩]]||A with vertical line below and macron||
+|---
+|[[Ǎ̩|Ǎ̩ ǎ̩]]||A with vertical line below and caron||
+|---
+|[[A̩̍|A̩̍ a̩̍]]||A with vertical line below and vertical line||
+|---
+|[[A̩̓|A̩̓ a̩̓]]||A with vertical line below and comma above||
+|---
+|[[A͔|A͔ a͔]]||A with left arrowhead below||Uralic dialectology
+|---
+|[[Ā͔|Ā͔ ā͔]]||A with left arrowhead below and macron||Uralic dialectology
+|---
+|[[Ⱥ|Ⱥ ⱥ]]||A with stroke||[[Saanich language|Saanich]]
+|---
+|[[Ⱥ̀|Ⱥ̀ ⱥ̀]]||A with stroke and grave||
+|---
+|[[Ⱥ́|Ⱥ́ ⱥ́]]||A with stroke and acute||
+|---
+|[[ᶏ]]||A with retroflex hook||previously in IPA
+|---
+|[[Ɑ̀|Ɑ̀ ɑ̀]]||Alpha with grave||[[Medumba language|Medumba]], [[Tigon language|Tigon]]
+|---
+|[[Ɑ́|Ɑ́ ɑ́]]||Alpha with acute||Medumba, Tigon
+|---
+|[[Ɑ̂|Ɑ̂ ɑ̂]]||Alpha with circumflex||Medumba, Tigon
+|---
+|[[Ɑ̃|Ɑ̃ ɑ̃]]||Alpha with tilde||
+|---
+|[[Ɑ̄|Ɑ̄ ɑ̄]]||Alpha with macron||Medumba
+|---
+|[[Ɑ̆|Ɑ̆ ɑ̆]]||Alpha with breve||
+|---
+|[[Ɑ̇ |Ɑ̇ ɑ̇]]||Alpha with dot above||
+|---
+|[[Ɑ̈ |Ɑ̈ ɑ̈]]||Alpha with diaeresis||
+|---
+|[[Ɑ̊|Ɑ̊ ɑ̊]]||Alpha with ring above||
+|---
+|[[Ɑ̌|Ɑ̌ ɑ̌]]||Alpha with caron||Medumba, Tigon
+|---
+|[[ᶐ]]||Alpha with retroflex hook||previously in IPA
+|---
+|[[B̀|B̀ b̀]]||B with grave||Ntcham
+|---
+|[[B́|B́ b́]]||B with acute||Ntcham, [[Võro language|Võro]]; previously used in [[Sorbian language|Sorbian]]
+|---
+|[[B̂|B̂ b̂]]||B with circumflex||Middle Persian transliteration
+|---
+|[[B̃|B̃ b̃]]||B with tilde||[[Yanesha' language|Yanesha']]
+|---
+|[[B̄|B̄ b̄]]||B with macron||Kire
+|---
+|[[Ḃ|Ḃ ḃ]]||B with dot above||[[Irish language|Irish]] (old orthography), Old High German
+|---
+|[[B̈|B̈ b̈]]||B with diaeresis||Manichaean transliteration
+|---
+|[[B̕|B̕ b̕]]||B with comma above right||Americanist phonetics
+|---
+|[[Ḇ|Ḇ ḇ]]||B with line below||Carian transliteration, Hebrew transliteration, Middle Persian transliteration, Sindhi transliteration
+|---
+|[[Ḇ̂|Ḇ̂ ḇ̂]]||B with line below and circumflex||Middle Persian transliteration
+|---
+|[[Ḅ|Ḅ ḅ]]||B with dot below||[[Ikwerre language|Ikwerre]], [[Kalabari language|Kalabari]], [[Saraiki dialect|Saraiki]] transliteration
+|---
+|[[B̤|B̤ b̤]]||B with diaeresis below||Sindhi transliteration
+|---
+|[[B̥|B̥ b̥]]||B with ring below||IPA
+|---
+|[[B̬|B̬ b̬]]||B with caron below||IPA and other phonetic alphabets
+|---
+|[[Ƀ|Ƀ ƀ]]||B with stroke||[[Jarai language|Jarai]], Proto-Germanic
+|---
+|[[ᵬ]]||B with middle tilde||&nbsp;
+|---
+|[[ᶀ]]||B with palatal hook||&nbsp;
+|---
+|[[Ɓ|Ɓ ɓ]]||B with hook||[[Voiced bilabial implosive]], [[Balanta language|Balanta]], [[Basaa language|Basaa]], [[Bomu language|Bomu]], [[Bushi language|Bushi]], [[Dan language|Dan]], [[Fula language|Fula]], [[Hausa language|Hausa]], [[Kpelle language|Kpelle]], [[Maore dialect|Maore]], and Serer; formerly used in Shona
+|---
+|[[Ƃ|Ƃ ƃ]]||B with topbar||Letter in the Zhuang Language from 1957 to 1986
+|---
+|[[Small caps|ʙ̇]]||Small capital B with dot above||
+|---
+|[[Small caps|ʙ̣]]||Small capital B with dot below||
+|---
+|[[C̀|C̀ c̀]]||C with grave||ISO 9
+|---
+|[[Ć|Ć ć]]||C with acute||Belarusian, Bosnian, Croatian, Montenegrin, Polish, Romani, Serbian, Sorbian, and Võro
+|---
+|[[Ĉ|Ĉ ĉ]]||C with circumflex||Esperanto, Pinyin transliteration
+|---
+|[[C̃|C̃ c̃]]||C with tilde||Yanesha'
+|---
+|[[C̄|C̄ c̄]]||C with macron||ALA-LC, ISO 9, Middle Persian transliteration, Kharosthi transliteration
+|---
+|[[C̄́|C̄́ c̄́]]||C with macron and acute||Middle Persian transliteration
+|---
+|[[C̆|C̆ c̆]]||C with breve||ISO 9, Jarai
+|---
+|[[Ċ|Ċ ċ]]||C with dot above||ISO 9, [[Maltese language|Maltese]], Irish (old orthography), Old High German; previously in Chechen
+|---
+|[[C̈|C̈ c̈]]||C with diaeresis||ISO 9, Old High German
+|---
+|[[Č|Č č]]||C with caron||Belarusian, Berber, Bosnian, Croatian, Czech, Estonian, Lakota, Latvian, Lithuanian, Livonian, Romani, Sami, Slovak, Slovenian, and Wakhi
+|---
+|[[Č́|Č́ č́]]||C with caron and acute above||Georgian transliteration
+|---
+|[[Č͑|Č͑ č͑]]||C with caron and left half ring above||Armenian transliteration
+|---
+|[[Č̓|Č̓ č̓]]||C with caron and comma above||[[Comox language|Comox]]
+|---
+|[[Č̕|Č̕ č̕]]||C with caron and comma above right||Americanist phonetics
+|---
+|[[Č͑|Č͑ č͑]]||C with caron and reversed comma above||Georgian transliteration
+|---
+|[[C̋|C̋ c̋]]||C with double acute||
+|---
+|[[C̓|C̓ c̓]]||C with comma above||Ditidaht, [[Haisla language|Haisla]], Heiltsuk, Thompson
+|---
+|[[C̕|C̕ c̕]]||C with comma above right||Americanist phonetics
+|---
+|[[C̔|C̔ c̔]]||C with reversed comma above||Georgian transliteration
+|---
+|[[C͑|C͑ c͑]]||C with left half ring above||Armenian transliteration
+|---
+|[[Ç|Ç ç]]||C with cedilla||Albanian, Azerbaijani, Catalan, French, Friulian, Kurdish, Ligurian, Manx, Occitan, Portuguese, Romanian, Tatar, Turkish, Turkmen, Zazaki; Previously used in Chechen; [[Voiceless palatal fricative]]
+|---
+|[[Ḉ|Ḉ ḉ]]||C with cedilla and acute||Abaza, Abkhaz, and Adyghe transliteration, Kurdish
+|---
+|[[Ç̆|Ç̆ ç̆]]||C with cedilla and breve||ISO 9
+|---
+|[[Ç̇|Ç̇ ç̇]]||C with cedilla and dot above||Chechen (old orthography)
+|---
+|[[Ç̌|Ç̌ ç̌]]||C with cedilla and caron||Abaza, Abkhaz, and Adyghe transliteration
+|---
+|[[C̦|C̦ c̦]]||C with comma below||Turksh, Azerbaijani
+|---
+|[[C̭|C̭ c̭]]||C with circumflex below||Old Persian transliteration
+|---
+|[[C̱|C̱ c̱]]||C with line below||
+|---
+|[[C̮|C̮ c̮]]||C with breve below||Romance dialectology
+|---
+|[[C̣|C̣ c̣]]||C with dot below||Armenian transliteration, Georgian transliteration
+|---
+|[[Ć̣|Ć̣ ć̣]]||C with dot below and acute||Georgian transliteration
+|---
+|[[Č̣|Č̣ č̣]]||C with dot below and caron||Armenian transliteration, Georgian transliteration, Wakhi
+|---
+|[[C̥|C̥ c̥]]||C with ring below||IPA and other phonetic alphabets
+|---
+|[[C̬|C̬ c̬]]||C with caron below||IPA
+|---
+|[[C̯|C̯ c̯]]||C with inverted breve below||Old Persian transliteration
+|---
+|[[C̨|C̨ c̨]]||C with ogonek||
+|---
+|[[Ȼ|Ȼ ȼ]]||C with stroke||[[Kutenai language|Kutenai]], Saanich; Previously used in Latvian
+|---
+|[[Ȼ̓|Ȼ̓ ȼ̓]]||C with stroke and comma above||Kutenai
+|---
+|[[Ꞓ|Ꞓ ꞓ]]||C with bar||Previously in [[Nanai language|Nanai]]
+|---
+|[[Ƈ|Ƈ ƈ]]||C with hook||[[Serer language|Serer]]
+|---
+|[[ɕ]]||C with curl||[[Voiceless alveolo-palatal fricative]]
+|---
+|[[Ꜿ|Ꜿ ꜿ]]||Reversed C with dot||&nbsp;
+|---
+|[[D́|D́ d́]]||D with acute||[[Võro language|Võro]], Kharosthi transliteration, ALA-LC transliteration
+|---
+|[[D̂|D̂ d̂]]||D with circumflex||ISO 9
+|---
+|[[D̃|D̃ d̃]]||D with tilde||
+|---
+|[[D̄|D̄ d̄]]||D with macron||Basque (alternative orthography)
+|---
+|[[Ḋ|Ḋ ḋ]]||D with dot above||Irish (Old orthography), Old High German
+|---
+|[[D̊|D̊ d̊]]||D with ring above||German Abbreviation
+|---
+|[[Ď|Ď ď]]||D with caron||Czech, Romani, Slovak
+|---
+|[[D̑|D̑ d̑]]||D with inverted breve||Old Church Slavonic transliteration
+|---
+|[[D̓|D̓ d̓]]||D with comma above||Ditidaht
+|---
+|[[D̕|D̕ d̕]]||D with comma above right||
+|---
+|[[Ḑ|Ḑ ḑ]]||D with cedilla||Arabic transliteration, Livonian
+|---
+|[[D̦|D̦ d̦]]||D with comma below||Old Romanian
+|---
+|[[Ḓ|Ḓ ḓ]]||D with circumflex below||Venda
+|---
+|[[Ḏ|Ḏ ḏ]]||D with line below||Arabic transliteration, Hebrew transliteration, Middle Persian transliteration, O'odham, Sindhi transliteration
+|---
+|[[D̮|D̮ d̮]]||D with breve below||Romance dialectology
+|---
+|[[Ḍ|Ḍ ḍ]]||D with dot below||Arabic Transliteration, Berber, Engenni, Kalabari, Kharosthi transliteration, O'odham, Sanskrit transliteration, Wakhi
+|---
+|[[Ḍ́|Ḍ́ ḍ́]]||D with dot below and acute||Kharosthi transliteration
+|---
+|[[D̤|D̤ d̤]]||D with diaeresis below||Mandaic transliteration, Sindhi transliteration, Tifinagh transliteration
+|---
+|[[D̥|D̥ d̥]]||D with ring below||IPA and other phonetic alphabets
+|---
+|[[D̬|D̬ d̬]]||D with caron below||IPA
+|---
+|[[D̪|D̪ d̪]]||D with bridge below||IPA
+|---
+|[[Đ|Đ đ]]||D with stroke||Bosnian, Croatian, Jarai, Katu, Sámi, Vietnamese, Middle Persian Transliteration
+|---
+|[[Đ̱|Đ̱ đ̱]]||D with stroke and line below||Middle Persian Transliteration
+|---
+|[[ᵭ]]||D with middle tilde||&nbsp;
+|---
+|[[ᶁ]]||D with palatal hook||&nbsp;
+|---
+|[[Ɖ|Ɖ ɖ]]||African D, D with tail||[[Voiced retroflex plosive]]; Bassa, [[Ewe language|Ewe]]
+|---
+|[[Ɗ|Ɗ ɗ]]||D with hook||[[Voiced alveolar implosive]]; Bushi, Fula, Hausa, Maore, Serer; formerly used in Shona
+|---
+|[[ᶑ]]||D with hook and tail||IPA
+|---
+|[[Ƌ|Ƌ ƌ]]||D with topbar||Letter of the Zhuang language from 1957 to 1986
+|---
+|[[ȡ]]||D with curl||&nbsp;
+|---
+|[[Insular script|Ꝺ́ ꝺ́]]||Insular D with acute||&nbsp;
+|---
+|[[Insular script|Ꝺ̇ ꝺ̇]]||Insular D with dot above||&nbsp;
+|---
+|[[Small caps|ᴅ̇]]||Small capital D with dot above||
+|---
+|[[Small caps|ᴅ̣]]||Small capital D with dot below||
+|---
+|[[Ð́|Ð́ ð́]]||Eth with acute||
+|---
+|[[Ð̣|Ð̣ ð̣]]||Eth with dot below||
+|---
+|[[È|È è]]||E with [[Grave accent|grave]]||Afrikaans, Catalan, French, Igbo, Italian, Luba-Kasai, Luxembourgian, Maltese, Occitan, Pinyin transliteration, Scottish Gaelic, Skolt Sámi, Vietnamese, Welsh, Yoruba; previously used in Romanian; cf. Cyrillic: [[Ѐ|Ѐ ѐ]]
+|---
+|[[É|É é]]||E with [[Acute accent|acute]]||Afrikaans, Catalan, Czech, Danish, Dutch, Ewondo, French, Galician, Hungarian, Icelandic, Igbo, Irish, Italian, Kashubian, Luxembourgian, Lycian Transliteration Norwegian, Occitan, Proto-Indo-European, Pinyin transliteration, Portuguese, Romanian, Skolt Sámi, Scottish Gaelic, Slovak, Spanish, Swedish, Vietnamese, Welsh, Yaghnobi, Yoruba
+|---
+|[[Ê|Ê ê]]||E with [[circumflex]]||Afrikaans, Dutch, Ewondo, French, Jarai, Accented Latvian, Luxembourgian, Pinyin transliteration, Portuguese, Vietnamese, Welsh, Yoruba; [[Kurdish alphabet|Kurdish Kurmanji]]; Ukrainian Trnsliteration
+|---
+|[[Ề|Ề ề]]||E with circumflex and grave||Vietnamese, Pinyin transliteration
+|---
+|[[Ế|Ế ế]]||E with circumflex and acute||Vietnamese, Pinyin transliteration
+|---
+|[[Ễ|Ễ ễ]]||E with circumflex and tilde||Vietnamese
+|---
+|[[Ê̄|Ê̄ ê̄]]||E with circumflex and macron||Pinyin transliteration
+|---
+|[[Ê̆|Ê̆ ê̆]]||E with circumflex and breve||Jarai
+|---
+|[[Ê̌|Ê̌ ê̌]]||E with circumflex and caron||Pinyin transliteration
+|---
+|[[Ể|Ể ể]]||E with circumflex and [[hook above]]||Vietnamese
+|---
+|[[Ẽ|Ẽ ẽ]]||E with [[tilde]]||Apalai, Bribri, Accented Czech, Ewe, Gokana, Guaraní, Accented Latvian, Lithuanian, Lycian transliteration, Proto-Indo-European, Tee, Tucano, Umbundu, Vietnamese, Yurutí, Zarma
+|---
+|[[Ẽ̀|Ẽ̀ ẽ̀]]||E with tilde and grave||
+|---
+|[[Ẽ́|Ẽ́ ẽ́]]||E with tilde and acute||Lycian transliteration
+|---
+|[[Ẽ̂|Ẽ̂ ẽ̂]]||E with tilde and circumflex||
+|---
+|[[Ẽ̌|Ẽ̌ ẽ̌]]||E with tilde and caron||
+|---
+|[[Ẽ̍|Ẽ̍ ẽ̍]]||E with tilde and vertical line||
+|---
+|[[Ẽ̎|Ẽ̎ ẽ̎]]||E with tilde and double vertical line||
+|---
+|[[Ē|Ē ē]]||E with [[macron]]||Creek, Ewondo, Greek transliteration, Hawaiian, Hiw, Igbo, Kaska, Latin, Latvian, Livonian, Maori, Mwotlap, Samoan, Samogitian, Sanskrit transliteration, Skolt Sámi, Tahitian, Tongan, Vurës
+|---
+|[[Ḕ|Ḕ ḕ]]||E with macron and grave||Greek transliteration, Latin, Sanskrit transliteration
+|---
+|[[Ḗ|Ḗ ḗ]]||E with macron and acute||Greek transliteration, Latin, Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ē̂|Ē̂ ē̂]]||E with macron and circumflex||Proto-Germanic
+|---
+|[[Ē̃|Ē̃ ē̃]]||E with macron and tilde||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ē̃́|Ē̃́ ē̃́]]||E with macron and tilde and acute||Proto-Indo-European
+|---
+|[[Ē̄|Ē̄ ē̄]]||E with macron and macron||Kienning Colloquial Romanized transliteration
+|---
+|[[Ē̆|Ē̆ ē̆]]||E with macron and breve||Latin, Proto-Indo-European
+|---
+|[[Ē̆́|Ē̆́ ē̆́]]||E with macron and breve and acute||Latin
+|---
+|[[Ē̌|Ē̌ ē̌]]||E with macron and caron||Greek transliteration
+|---
+|[[Ē̑|Ē̑ ē̑]]||E with macron and inverted breve||Greek transliteration
+|---
+|[[Ĕ|Ĕ ĕ]]||E with [[breve]]||Chuvash, Latin, Skolt Sámi, Slavic dialectology, Yaghnobi; previously used in Malay and Romanian; cf. Cyrillic: [[Ӗ|Ӗ ӗ]]
+|---
+|[[Ĕ̀|Ĕ̀ ĕ̀]]||E with breve and grave||Latin
+|---
+|[[Ĕ́|Ĕ́ ĕ́]]||E with breve and acute||Latin, Yaghnobi
+|---
+|[[Ĕ̄|Ĕ̄ ĕ̄]]||E with breve and macron||Slavic dialectology
+|---
+|[[Ė|Ė ė]]||E with dot above||Cheyenne, Lithuanian, Old High German, Samogitian, Ulithian
+|---
+|[[Ė́|Ė́ ė́]]||E with dot above and acute||Lithuanian
+|---
+|[[Ė̃|Ė̃ ė̃]]||E with dot above and tilde||Lithuanian
+|---
+|[[Ė̄|Ė̄ ė̄]]||E with dot above and macron||Samogitian
+|---
+|[[Ë|Ë ë]]||E with [[Diaeresis (diacritic)|diaeresis]]||Afrikaans, Albanian, Dutch, French, Hän, Hiw, Italian, Kaqchikel, Kashubian, Low Saxon, Luxembourgian, Old High German, Old Lithuanian, Ripuarian German, Seneca, Taiwanese Hokkien, Uighur, Vurës, Yapese; cf. Cyrillic: [[Ё|Ё ё]]
+|---
+|[[Ë̀|Ë̀ ë̀]]||E with diaeresis and grave||
+|---
+|[[Ë́|Ë́ ë́]]||E with diaeresis and acute||Old High German, Old Lithuanian
+|---
+|[[Ë̂|Ë̂ ë̂]]||E with diaeresis and circumflex||
+|---
+|[[Ë̃|Ë̃ ë̃]]||E with diaeresis and tilde||Old High German, Old Lithuanian
+|---
+|[[Ë̄|Ë̄ ë̄]]||E with diaeresis and macron||Old High German
+|---
+|[[Ë̌|Ë̌ ë̌]]||E with diaeresis and caron||
+|---
+|[[Ẻ|Ẻ ẻ]]||E with hook above||Vietnamese
+|---
+|[[E̊|E̊ e̊]]||E with ring above||Old High German, Runic transliteration, Walloon
+|---
+|[[E̊̄|E̊̄ e̊̄]]||E with ring above and macron||Runic transliteration
+|---
+|[[E̋|E̋ e̋]]||E with double acute||Old High German, Pehoe-Ji
+|---
+|[[Ě|Ě ě]]||E with [[caron]]||Awing, Bangolan, Czech, Ewondo, Hän, Hyam, Kaska, Kemezung, Kwanja, Lingala, Manenguba, Medumba, Mundani, Ngbaka Minagende, Ngiemboon, Ngomba, Nzime, Pinyin transliteration, Sorbian, Tagish, Tigon, Yoruba, Old Church Slavonic transliteration
+|---
+|[[Ě́|Ě́ ě́]]||E with caron and acute||Accented Czech, Old Church Slavonic transliteration
+|---
+|[[Ě̃|Ě̃ ě̃]]||E with caron and tilde||Accented Czech
+|---
+|[[Ě̋|Ě̋ ě̋]]||E with caron and double acute||Old Church Slavonic transliteration
+|---
+|[[Ě̑|Ě̑ ě̑]]||E with caron and inverted breve||Old Church Slavonic transliteration
+|---
+|[[E̍|E̍ e̍]]||E with vertical line||Pe̍h-ōe-jī, Taiwanese Romanization System
+|---
+|[[E̎|E̎ e̎]]||E with double vertical line||
+|---
+|[[Ȅ|Ȅ ȅ]]||E with double grave||Croatian
+|---
+|[[Ȇ|Ȇ ȇ]]||E with inverted breve||Croatian, Old Church Slavonic transliteration
+|---
+|[[E̓|E̓ e̓]]||E with comma above||Greek transliteration
+|---
+|[[E᷎|E᷎ e᷎]]||E with ogonek above||
+|---
+|[[Ȩ|Ȩ ȩ]]||E with [[cedilla]]||Dii, Hebrew transliteration, Mundani, Pana
+|---
+|[[Ȩ̀|Ȩ̀ ȩ̀]]||E with grave and cedilla||
+|---
+|[[Ȩ́|Ȩ́ ȩ́]]||E with acute and cedilla||
+|---
+|[[Ȩ̂|Ȩ̂ ȩ̂]]||E with circumflex and cedilla||
+|---
+|[[Ḝ|Ḝ ḝ]]||E with breve and cedilla||Hebrew transliteration
+|---
+|[[Ȩ̌|Ȩ̌ ȩ̌]]||E with caron and cedilla||
+|---
+|[[Ẽ̦|Ẽ̦ ẽ̦]]||E with comma below and tilde||Slavic dialectology
+|---
+|[[Ę|Ę ę]]||E with [[ogonek]]||Apache, Chipewyan, Creek, Elfdalian, Gwich'in, Han, Iñapari, Kaska, Lithuanian, Mescalero-Chiricahua, Navajo, Old High German, Old Norse, Polish, Sekani, Tagish, Tlingit, Tutchone, Winnebago
+|---
+|[[Ę̀|Ę̀ ę̀]]||E with grave and ogonek||Navajo, Winnebago
+|---
+|[[Ę́|Ę́ ę́]]||E with acute and ogonek||Old Norse, Lithuanian, Navajo, Winnebago
+|---
+|[[Ę̂|Ę̂ ę̂]]||E with circumflex and ogonek||Old High German
+|---
+|[[Ę̃|Ę̃ ę̃]]||E with tilde and ogonek||Lithuanian
+|---
+|[[Ę̃́|Ę̃́ ę̃́]]||E with tilde and acute and ogonek||
+|---
+|[[Ę̄|Ę̄ ę̄]]||E with macron and ogonek||Old Norse, Proto-Germanic, Slavic dialectology
+|---
+|[[Ę̄̀|Ę̄̀ ę̄̀]]||E with macron, grave and ogonek||Slavic dialectology
+|---
+|[[Ę̄́|Ę̄́ ę̄́]]||E with macron, acute and ogonek||Old Norse, Slavic dialectology
+|---
+|[[Ę̄̂|Ę̄̂ ę̄̂]]||E with macron, circumflex and ogonek||
+|---
+|[[Ę̄̃|Ę̄̃ ę̄̃]]||E with macron, tilde and ogonek||Slavic dialectology
+|---
+|[[Ę̄̌|Ę̄̌ ę̄̌]]||E with macron, caron and ogonek||
+|---
+|[[Ę̆|Ę̆ ę̆]]||E with breve and ogonek||Slavic dialectology
+|---
+|[[Ę̇|Ę̇ ę̇]]||E with dot above and ogonek||
+|---
+|[[Ę̇́|Ę̇́ ę̇́]]||E with dot above, acute and ogonek||
+|---
+|[[Ę̈|Ę̈ ę̈]]||E with diaeresis and ogonek||Slavic dialectology, Old High German
+|---
+|[[Ę̈̀|Ę̈̀ ę̈̀]]||E with diaeresis, grave and ogonek||
+|---
+|[[Ę̈́|Ę̈́ ę̈́]]||E with diaeresis, acute and ogonek||
+|---
+|[[Ę̈̂|Ę̈̂ ę̈̂]]||E with diaeresis, circumflex and ogonek||
+|---
+|[[Ę̈̌|Ę̈̌ ę̈̌]]||E with diaeresis, caron and ogonek||
+|---
+|[[Ę̈̄|Ę̈̄ ę̈̄]]||E with diaeresis, macron and ogonek||
+|---
+|[[Ę̋|Ę̋ ę̋]]||E with double acute and ogonek||
+|---
+|[[Ę̌|Ę̌ ę̌]]||E with caron and ogonek||
+|---
+|[[Ę̑|Ę̑ ę̑]]||E with inverted breve and ogonek||Old Church Slavonic transliteration
+|---
+|[[Ę̱|Ę̱ ę̱]]||E with ogonek and line below||
+|---
+|[[Ę̱̀|Ę̱̀ ę̱̀]]||E with ogonek, line below, and grave||
+|---
+|[[Ę̱́|Ę̱́ ę̱́]]||E with ogonek, line below, and acute||
+|---
+|[[Ę̣|Ę̣ ę̣]]||E with ogonek and dot below||
+|---
+|[[Ę᷎|Ę᷎ ę᷎]]||E with ogonek above and ogonek||
+|---
+|[[Ḙ|Ḙ ḙ]]||E with circumflex below||Phonetic systems{{which|date=June 2016}}
+|---
+|[[Ḛ|Ḛ ḛ]]||E with tilde below||Ngambay, Zarma, !Xóõ
+|---
+|[[E̱|E̱ e̱]]||E with line below||German dialectology
+|---
+|[[È̱|È̱ è̱]]||E with grave and line below||
+|---
+|[[É̱|É̱ é̱]]||E with acute and line below||
+|---
+|[[Ê̱|Ê̱ ê̱]]||E with circumflex and line below||
+|---
+|[[Ẽ̱|Ẽ̱ ẽ̱]]||E with tilde and line below||
+|---
+|[[Ē̱|Ē̱ ē̱]]||E with macron and line below||
+|---
+|[[Ḕ̱|Ḕ̱ ḕ̱]]||E with macron, grave and line below||
+|---
+|[[Ḗ̱|Ḗ̱ ḗ̱]]||E with macron, acute and line below||
+|---
+|[[Ē̱̂|Ē̱̂ ē̱̂]]||E with macron, circumflex and line below||
+|---
+|[[Ë̱|Ë̱ ë̱]]||E with diaeresis and line below||
+|---
+|[[Ë̱̀|Ë̱̀ ë̱̀]]||E with diaeresis, grave, and line below||
+|---
+|[[Ë̱́|Ë̱́ ë̱́]]||E with diaeresis, acute, and line below||
+|---
+|[[Ë̱̂|Ë̱̂ ë̱̂]]||E with diaeresis, circumflex, and line below||
+|---
+|[[Ë̱̌|Ë̱̌ ë̱̌]]||E with diaeresis, caron, and line below||
+|---
+|[[Ě̱|Ě̱ ě̱]]||E with caron and line below||
+|---
+|[[E̮|E̮ e̮]]||E with breve below||Uralic dialectology
+|---
+|[[Ē̮|Ē̮ ē̮]]||E with breve below and macron||Uralic dialectology
+|---
+|[[Ẹ|Ẹ ẹ]]||E with dot below||Abua, Gokana, Ibibio, Isoko, Romance dialectology, Slavic dialectology, Urhobo, Vietnamese, Yaghnobi, Yakö, Yoruba
+|---
+|[[Ẹ̀|Ẹ̀ ẹ̀]]||E with grave and dot below||Romance dialectology
+|---
+|[[Ẹ́|Ẹ́ ẹ́]]||E with acute and dot below||Romance dialectology, Yaghnobi
+|---
+|[[Ệ|Ệ ệ]]||E with circumflex and dot below||Vietnamese
+|---
+|[[Ẹ̃|Ẹ̃ ẹ̃]]||E with tilde and dot below||Romance dialectology
+|---
+|[[Ẹ̄|Ẹ̄ ẹ̄]]||E with macron and dot below||Romance dialectology, Slavic dialectology
+|---
+|[[Ẹ̄̀|Ẹ̄̀ ẹ̄̀]]||E with macron and grave and dot below||Romance dialectology
+|---
+|[[Ẹ̄́|Ẹ̄́ ẹ̄́]]||E with macron and acute and dot below||Romance dialectology
+|---
+|[[Ẹ̄̃|Ẹ̄̃ ẹ̄̃]]||E with macron and tilde and dot below||Romance dialectology
+|---
+|[[Ẹ̆|Ẹ̆ ẹ̆]]||E with breve and dot below||Romance dialectology, Slavic dialectology, Yaghnobi
+|---
+|[[Ẹ̆̀|Ẹ̆̀ ẹ̆̀]]||E with breve and grave and dot below||
+|---
+|[[Ẹ̆́|Ẹ̆́ ẹ̆́]]||E with breve and acute and dot below||Yaghnobi
+|---
+|[[Ẹ̈|Ẹ̈ ẹ̈]]||E with diaeresis and dot below||
+|---
+|[[Ẹ̈̀|Ẹ̈̀ ẹ̈̀]]||E with diaeresis, grave, and dot below||
+|---
+|[[Ẹ̈́|Ẹ̈́ ẹ̈́]]||E with diaeresis, acute, and dot below||
+|---
+|[[Ẹ̈̂|Ẹ̈̂ ẹ̈̂]]||E with diaeresis, circumflex, and dot below||
+|---
+|[[Ẹ̈̌|Ẹ̈̌ ẹ̈̌]]||E with diaeresis, caron, and dot below||
+|---
+|[[Ẹ̍|Ẹ̍ ẹ̍]]||E with vertical line and dot below||
+|---
+|[[Ẹ̌|Ẹ̌ ẹ̌]]||E with caron and dot below||
+|---
+|[[Ẹ̑|Ẹ̑ ẹ̑]]||E with inverted breve and dot below||Slavic dialectology
+|---
+|[[E̤|E̤ e̤]]||E with diaeresis below||Pu-Xian Min
+|---
+|[[È̤|È̤ è̤]]||E with diaeresis below and grave||
+|---
+|[[É̤|É̤ é̤]]||E with diaeresis below and acute||
+|---
+|[[Ê̤|Ê̤ ê̤]]||E with diaeresis below and circumflex||
+|---
+|[[Ë̤|Ë̤ ë̤]]||E with diaeresis below and diaeresis||
+|---
+|[[E̥|E̥ e̥]]||E with ring below||Arabic transliteration, Pashto transliteration, Persian transliteration
+|---
+|[[E̯|E̯ e̯]]||E with inverted breve below||IPA and other phonetic alphabets
+|---
+|[[E̩|E̩ e̩]]||E with vertical line below||
+|---
+|[[È̩|È̩ è̩]]||E with vertical line below and grave||
+|---
+|[[É̩|É̩ é̩]]||E with vertical line below and acute||
+|---
+|[[Ê̩|Ê̩ ê̩]]||E with vertical line below and circumflex||
+|---
+|[[Ẽ̩|Ẽ̩ ẽ̩]]||E with vertical line below and tilde||
+|---
+|[[Ē̩|Ē̩ ē̩]]||E with vertical line below and macron||
+|---
+|[[Ě̩|Ě̩ ě̩]]||E with vertical line below and caron||
+|---
+|[[E̩̍|E̩̍ e̩̍]]||E with vertical line below and vertical line||
+|---
+|[[E̩̓|E̩̓ e̩̓]]||E with vertical line below and comma above||
+|---
+|[[È͕|È͕ è͕]]||E with right arrowhead below and grave||Uralic dialectology
+|---
+|[[Ê͕|Ê͕ ê͕]]||E with right arrowhead below and circumflex||Uralic dialectology
+|---
+|[[Ẽ͕|Ẽ͕ ẽ͕]]||E with right arrowhead below and tilde||Uralic dialectology
+|---
+|[[Ē͕|Ē͕ ē͕]]||E with right arrowhead below and macron||Uralic dialectology
+|---
+|[[Ḕ͕|Ḕ͕ ḕ͕]]||E with right arrowhead below and macron and grave||Uralic dialectology
+|---
+|[[E̜|E̜ e̜]]||E with left half ring below||
+|---
+|[[E̹|E̹ e̹]]||E with right half ring below||
+|---
+|[[È̹|È̹ è̹]]||E with right half ring below and grave||
+|---
+|[[É̹|É̹ é̹]]||E with right half ring below and acute||
+|---
+|[[Ê̹|Ê̹ ê̹]]||E with right half ring below and circumflex||
+|---
+|[[Ẽ̹|Ẽ̹ ẽ̹]]||E with right half ring below and tilde||
+|---
+|[[Ē̹|Ē̹ ē̹]]||E with right half ring below and macron||
+|---
+|[[Ḕ̹|Ḕ̹ ḕ̹]]||E with right half ring below and macron and grave||
+|---
+|[[Ɇ|Ɇ ɇ]]||E with stroke||Southeastern Tepehuan
+|---
+|[[ᶒ]]||E with retroflex hook||previously in IPA
+|---
+|[[ⱸ]]||E with notch||UPA
+|---
+|[[ᶕ]]||Schwa with retroflex hook||previously in IPA
+|---
+|[[ᶓ]]||Open E with retroflex hook||previously in IPA
+|---
+|[[ɚ]]||Schwa with hook||IPA
+|---
+|[[ᶔ]]||Reversed open E with retroflex hook||previously in IPA
+|---
+|[[ɝ]]||Reversed open E with hook (Reversed Epsilon hook)||IPA
+|---
+|[[Ɛ̀|Ɛ̀ ɛ̀]]||Open E with grave||
+|---
+|[[Ɛ́|Ɛ́ ɛ́]]||Open E with acute||
+|---
+|[[Ɛ̂|Ɛ̂ ɛ̂]]||Open E with circumflex||
+|---
+|[[Ɛ̃|Ɛ̃ ɛ̃]]||Open E with tilde||
+|---
+|[[Ɛ̃̀|Ɛ̃̀ ɛ̃̀]]||Open E with tilde and grave||
+|---
+|[[Ɛ̃́|Ɛ̃́ ɛ̃́]]||Open E with tilde and acute||
+|---
+|[[Ɛ̃̂|Ɛ̃̂ ɛ̃̂]]||Open E with tilde and circumflex||
+|---
+|[[Ɛ̃̌|Ɛ̃̌ ɛ̃̌]]||Open E with tilde and caron||
+|---
+|[[Ɛ̃̍|Ɛ̃̍ ɛ̃̍]]||Open E with tilde and vertical line||
+|---
+|[[Ɛ̃̎|Ɛ̃̎ ɛ̃̎]]||Open E with tilde and double vertical line||
+|---
+|[[Ɛ̄|Ɛ̄ ɛ̄]]||Open E with macron||
+|---
+|[[Ɛ̆|Ɛ̆ ɛ̆]]||Open E with breve||
+|---
+|[[Ɛ̇|Ɛ̇ ɛ̇]]||Open E with dot above||
+|---
+|[[Ɛ̈|Ɛ̈ ɛ̈]]||Open E with diaeresis||
+|---
+|[[Ɛ̈̀|Ɛ̈̀ ɛ̈̀]]||Open E with diaeresis and grave||
+|---
+|[[Ɛ̈́|Ɛ̈́ ɛ̈́]]||Open E with diaeresis and acute||
+|---
+|[[Ɛ̈̂|Ɛ̈̂ ɛ̈̂]]||Open E with diaeresis and circumflex||
+|---
+|[[Ɛ̈̌|Ɛ̈̌ ɛ̈̌]]||Open E with diaeresis and caron||
+|---
+|[[Ɛ̌|Ɛ̌ ɛ̌]]||Open E with caron||
+|---
+|[[Ɛ̍|Ɛ̍ ɛ̍]]||Open E with vertical line||
+|---
+|[[Ɛ̎|Ɛ̎ ɛ̎]]||Open E with double vertical line||
+|---
+|[[Ɛ̣|Ɛ̣ ɛ̣]]||Open E with dot below||
+|---
+|[[Ɛ̣̀|Ɛ̣̀ ɛ̣̀]]||Open E with dot below and grave||
+|---
+|[[Ɛ̣́|Ɛ̣́ ɛ̣́]]||Open E with dot below and acute||
+|---
+|[[Ɛ̣̂|Ɛ̣̂ ɛ̣̂]]||Open E with dot below and circumflex||
+|---
+|[[Ɛ̣̃|Ɛ̣̃ ɛ̣̃]]||Open E with dot below and tilde||
+|---
+|[[Ɛ̣̈|Ɛ̣̈ ɛ̣̈]]||Open E with dot below and diaeresis||
+|---
+|[[Ɛ̣̈̀|Ɛ̣̈̀ ɛ̣̈̀]]||Open E with dot below, diaeresis, and grave||
+|---
+|[[Ɛ̣̈́|Ɛ̣̈́ ɛ̣̈́]]||Open E with dot below, diaeresis, and acute||
+|---
+|[[Ɛ̣̈̂|Ɛ̣̈̂ ɛ̣̈̂]]||Open E with dot below, diaeresis, and circumflex||
+|---
+|[[Ɛ̣̈̌|Ɛ̣̈̌ ɛ̣̈̌]]||Open E with dot below, diaeresis, and caron||
+|---
+|[[Ɛ̣̌|Ɛ̣̌ ɛ̣̌]]||Open E with dot below and caron||
+|---
+|[[Ɛ̤|Ɛ̤ ɛ̤]]||Open E with diaeresis below||
+|---
+|[[Ɛ̤̀|Ɛ̤̀ ɛ̤̀]]||Open E with diaeresis below and grave||
+|---
+|[[Ɛ̤́|Ɛ̤́ ɛ̤́]]||Open E with diaeresis below and acute||
+|---
+|[[Ɛ̤̂|Ɛ̤̂ ɛ̤̂]]||Open E with diaeresis below and circumflex||
+|---
+|[[Ɛ̤̈|Ɛ̤̈ ɛ̤̈]]||Open E with diaeresis below and diaeresis||
+|---
+|[[Ɛ̧|Ɛ̧ ɛ̧]]||Open E with cedilla||
+|---
+|[[Ɛ̧̀|Ɛ̧̀ ɛ̧̀]]||Open E with cedilla and grave||
+|---
+|[[Ɛ̧́|Ɛ̧́ ɛ̧́]]||Open E with cedilla and acute||
+|---
+|[[Ɛ̧̂|Ɛ̧̂ ɛ̧̂]]||Open E with cedilla and circumflex||
+|---
+|[[Ɛ̧̌|Ɛ̧̌ ɛ̧̌]]||Open E with cedilla and caron||
+|---
+|[[Ɛ̨|Ɛ̨ ɛ̨]]||Open E with ogonek||
+|---
+|[[Ɛ̨̀|Ɛ̨̀ ɛ̨̀]]||Open E with ogonek and grave||
+|---
+|[[Ɛ̨́|Ɛ̨́ ɛ̨́]]||Open E with ogonek and acute||
+|---
+|[[Ɛ̨̂|Ɛ̨̂ ɛ̨̂]]||Open E with ogonek and circumflex||
+|---
+|[[Ɛ̨̄|Ɛ̨̄ ɛ̨̄]]||Open E with ogonek and macron||
+|---
+|[[Ɛ̨̆|Ɛ̨̆ ɛ̨̆]]||Open E with ogonek and breve||
+|---
+|[[Ɛ̨̈|Ɛ̨̈ ɛ̨̈]]||Open E with ogonek and diaeresis||
+|---
+|[[Ɛ̨̌|Ɛ̨̌ ɛ̨̌]]||Open E with ogonek and caron||
+|---
+|[[Ɛ̰|Ɛ̰ ɛ̰]]||Open E with tilde below||
+|---
+|[[Ɛ̰̀|Ɛ̰̀ ɛ̰̀]]||Open E with tilde below and grave||
+|---
+|[[Ɛ̰́|Ɛ̰́ ɛ̰́]]||Open E with tilde below and acute||
+|---
+|[[Ɛ̰̄|Ɛ̰̄ ɛ̰̄]]||Open E with tilde below and macron||
+|---
+|[[Ɛ̱|Ɛ̱ ɛ̱]]||Open E with line below||
+|---
+|[[Ɛ̱̀|Ɛ̱̀ ɛ̱̀]]||Open E with line below and grave||
+|---
+|[[Ɛ̱́|Ɛ̱́ ɛ̱́]]||Open E with line below and acute||
+|---
+|[[Ɛ̱̂|Ɛ̱̂ ɛ̱̂]]||Open E with line below and circumflex||
+|---
+|[[Ɛ̱̃|Ɛ̱̃ ɛ̱̃]]||Open E with line below and tilde||
+|---
+|[[Ɛ̱̈|Ɛ̱̈ ɛ̱̈]]||Open E with line below and diaeresis||
+|---
+|[[Ɛ̱̈̀|Ɛ̱̈̀ ɛ̱̈̀]]||Open E with line below, diaeresis, and grave||
+|---
+|[[Ɛ̱̈́|Ɛ̱̈́ ɛ̱̈́]]||Open E with line below, diaeresis, and acute||
+|---
+|[[Ɛ̱̌|Ɛ̱̌ ɛ̱̌]]||Open E with line below and caron||
+|---
+|[[Ə̀|Ə̀ ə̀]]||Schwa with grave||
+|---
+|[[Ə́|Ə́ ə́]]||Schwa with acute||
+|---
+|[[Ə̂|Ə̂ ə̂]]||Schwa with circumflex||
+|---
+|[[Ə̄|Ə̄ ə̄]]||Schwa with macron||Avestan transliteration
+|---
+|[[Ə̌|Ə̌ ə̌]]||Schwa with caron||
+|---
+|[[F̀|F̀ f̀]]||F with grave||ISO 9
+|---
+|[[F́|F́ f́]]||F with acute||[[Võro language|Võro]]
+|---
+|[[F̃|F̃ f̃]]||F with tilde||Igbo (alternate orthography)
+|---
+|[[F̄|F̄ f̄]]||F with macron||[[ISO 11940]]
+|---
+|[[Ḟ|Ḟ ḟ]]||F with dot above||Irish (old orthography), Old High German, Old Russian transliteration
+|---
+|[[F̓|F̓ f̓]]||F with comma above||
+|---
+|[[F̧|F̧ f̧]]||F with cedilla||ALA-LC romanization of Abkhaz
+|---
+|[[ᵮ]]||F with middle tilde||&nbsp;
+|---
+|[[ᶂ]]||F with palatal hook||&nbsp;
+|---
+|[[Ƒ|Ƒ ƒ]]||F with hook (Script F)||Ewe
+|---
+|[[F̱|F̱ f̱]]||F with line below||
+|---
+|[[F̣|F̣ f̣]]||F with dot below||Georgian transliteration
+|---
+|[[Small caps|ꜰ̇]]||Small capital F||
+|---
+|[[Ꝼ́|Ꝼ́ ꝼ́]]||Insular F with acute||
+|---
+|[[Ꝼ̇|Ꝼ̇ ꝼ̇]]||Insular F with dot above||
+|---
+|[[Ꝼ̣|Ꝼ̣ ꝼ̣]]||Insular F with dot below||
+|---
+|[[G̀|G̀ g̀]]||G with grave||ISO 9
+|---
+|[[Ǵ|Ǵ ǵ]]||G with acute||Kharosthi transliteration, Macedonian transliteration, Middle Persian Transliteration
+|---
+|[[Ǵ̃|Ǵ̄ ǵ̄]]||G with acute and macron||Kharosthi transliteration
+|---
+|[[Ĝ|Ĝ ĝ]]||G with circumflex||Aleut, Esperanto, Proto-Indo-European dialectology
+|---
+|[[G̃|G̃ g̃]]||G with tilde||Pre-1936 Tagalog letter; ng
+|---
+|[[G̃́|G̃́ g̃́]]||G with tilde and acute||
+|---
+|[[Ḡ|Ḡ ḡ]]||G with macron||Hebrew transliteration, Kharosthi transliteration, Middle Persian Transliteration
+|---
+|[[Ḡ́|Ḡ́ ḡ́]]||G with macron and acute||Middle Persian Transliteration
+|---
+|[[Ğ|Ğ ğ]]||G with breve||Turkish, Azerbaijani, Crimean Tatar, Laz, Bashkir transliteration
+|---
+|[[Ġ|Ġ ġ]]||G with dot above||Iñupiat, Irish (old orthography), Maltese, Old High German
+|---
+|[[G̈|G̈ g̈]]||G with diaeresis||Nawdm, ALA-LC romanization of Sindhi
+|---
+|[[G̈̇|G̈̇ g̈̇]]||G with three dots above/diaeresis and dot above||Tifinagh transliteration
+|---
+|[[G̊|G̊ g̊]]||G with ring above||IPA
+|---
+|[[G̋|G̋ g̋]]||G with double acute||Old Maltese orthography
+|---
+|[[Ǧ|Ǧ ǧ]]||G with caron||Arabic transliteration, Berber, Lakota, Manichaean transliteration, Romani, Skolt Sami
+|---
+|[[Ǧ̈|Ǧ̈ ǧ̈]]||G with caron and diaeresis||Manichaean transliteration
+|---
+|[[G̑|G̑ g̑]]||G with inverted breve||Aleut (alternative orthography), Old Church Slavonic transliteration, Proto-Indo-European dialectology
+|---
+|[[G̒|G̒ g̒]]||G with turned comma above||
+|---
+|[[G̓|G̓ g̓]]||G with comma above||
+|---
+|[[G̕|G̕ g̕]]||G with comma above right||
+|---
+|[[G̔|G̔ g̔]]||G with reversed comma above||
+|---
+|[[Ģ|Ģ ģ]]||G with cedilla||Latvian
+|---
+|[[G̦|G̦ g̦]]||G with comma below||Old Latgalian
+|---
+|[[G̱|G̱ g̱]]||G with line below||Hebrew transliteration, Middle Persian transliteration, Sindhi transliteration
+|---
+|[[G̱̓|G̱̓ g̱̓]]||G with line below and comma above||
+|---
+|[[G̮|G̮ g̮]]||G with breve below||Romance Dialectology
+|---
+|[[G̣|G̣ g̣]]||G with dot below||[[Eyak language|Eyak]], Georgian transliteration
+|---
+|[[G̤|G̤ g̤]]||G with diaeresis below||
+|---
+|[[G̥|G̥ g̥]]||G with ring below||IPA and other phonetic alphabets
+|---
+|[[G̫|G̫ g̫]]||G with inverted double arch below||IPA
+|---
+|[[Ꞡ|Ꞡ ꞡ]]||G with oblique stroke||Pre-1921 Latvian letter
+|---
+|[[Ǥ|Ǥ ǥ]]||G with stroke||Proto-Germanic, Skolt Sami
+|---
+|[[ᶃ]]||G with palatal hook||&nbsp;
+|---
+|[[Ɠ|Ɠ ɠ]]||G with hook||[[Voiced velar implosive]]
+|---
+|[[Small caps|ɢ̇]]||Small capital G with dot above||
+|---
+|[[Small caps|ɢ̣]]||Small capital G with dot below||
+|---
+|[[ʛ]]||Small capital G with hook||[[Voiced uvular implosive]]
+|---
+|[[Ɣ̓|Ɣ̓ ɣ̓]]||Gamma with comma above||[[Thompson language|Thompson]]
+|---
+|[[H̀|H̀ h̀]]||H with grave||Greek transliteration
+|---
+|[[H́|H́ h́]]||H with acute||Avestan transliteration, Greek transliteration, Kharosthi transliteration, [[Võro language|Võro]], ALA-LC romanization
+|---
+|[[Ĥ|Ĥ ĥ]]||H with circumflex||Esperanto
+|---
+|[[H̄|H̄ h̄]]||H with macron||ISO 11940
+|---
+|[[Ḣ|Ḣ ḣ]]||H with dot above||Avestan Transliteration, Cyrillic transliteration, Old High German
+|---
+|[[Ḧ|Ḧ ḧ]]||H with diaeresis||Kurdish
+|---
+|[[Ȟ|Ȟ ȟ]]||H with caron||Finnish Romani, Lakota
+|---
+|[[H̐|H̐ h̐]]||H with chandrabindu||ALA-LC romanization of Kabardian
+|---
+|[[H̓|H̓ h̓]]||H with comma above||Heiltsuk
+|---
+|[[H̕|H̕ h̕]]||H with comma above right||
+|---
+|[[Ḩ|Ḩ ḩ]]||H with cedilla||Arabic transliteration
+|---
+|[[H̨|H̨ h̨]]||H with ogonek||Uyghur transliteration
+|---
+|[[H̭|H̭ h̭]]||H with circumflex below||Egyptian hiergolyphic transliteration
+|---
+|[[ẖ|H̱ ẖ]]||H with line below||Arabic transliteration, Middle Persian transliteration
+|---
+|[[Ḫ|Ḫ ḫ]]||H with breve below||Arabic transliteration
+|---
+|[[Ḥ|Ḥ ḥ]]||H with dot below||Arabic transliteration
+|---
+|[[Ḥ̣|Ḥ̣ ḥ̣]]||H with colon below||Hebrew transliteration
+|---
+|[[H̤|H̤ h̤]]||H with diaeresis below||
+|---
+|[[H̥|H̥ h̥]]||H with ring below||IPA
+|---
+|[[H̬|H̬ h̬]]||H with caron below||IPA
+|---
+|[[H̯|H̯ h̯]]||H with inverted breve below||Egyptian hiergolyphic transliteration
+|---
+|[[Ħ|Ħ ħ]]||H with stroke||[[Voiceless pharyngeal fricative]]; Maltese
+|---
+|[[Ħ̥|Ħ̥ ħ̥]]||H with stroke and ring below||IPA
+|---
+|[[Ɦ|Ɦ ɦ]]||H with hook||[[Voiced glottal fricative]]; [[Dagaare language|Dagaare]], [[Massa language|Massa]]
+|---
+|[[Ⱨ|Ⱨ ⱨ]]||H with descender||Uyghur. c.f. Cyrillic: [[Ҙ|Ҙ ҙ]]
+|---
+|[[h̢]]||H with retroflex hook||
+|---
+|[[Small caps|ʜ̇]]||Small capital H||
+|---
+|[[ɧ]]||Heng with hook||[[Voiceless palatal-velar fricative]]
+|---
+|[[Ì|Ì ì]]||I with grave||Italian, Luba-Kasai, Maltese, Pinyin transliteration, Scottish Gaelic
+|---
+|[[Í|Í í]]||I with acute||Czech, Danish, Faroese, Icelandic, Lingala, Lithuanian, Pinyin transliteration, Romanian, Slovak, Spanish, Tatar, Vietnamese, Yaghnobi
+|---
+|[[Î|Î î]]||I with circumflex||French, Italian, Accented Latvian, Romanian
+|---
+|[[Î́|Î́ î́]]||I with circumflex and acute||Romanian
+|---
+|[[Ĩ|Ĩ ĩ]]||I with tilde||Apalai, Bariba, Boko, Accented Czech, Greenlandic, Guaraní, Kikuyu, Accented  Latvian, Lithuanian, Umbundu, Vietnamese, Zarma
+|---
+|[[Ĩ́|Ĩ́ ĩ́]]||I with tilde and acute||
+|---
+|[[Ĩ̀|Ĩ̀ ĩ̀]]||I with tilde and grave||
+|---
+|[[Ĩ̂|Ĩ̂ ĩ̂]]||I with tilde and circumflex||
+|---
+|[[Ĩ̌|Ĩ̌ ĩ̌]]||I with tilde and caron||
+|---
+|[[Ĩ̍|Ĩ̍ ĩ̍]]||I with tilde and vertical line||
+|---
+|[[Ĩ̎|Ĩ̎ ĩ̎]]||I with tilde and double vertical line||
+|---
+|[[Ī|Ī ī]]||I with macron||Latvian, Latin, Sanskrit transliteration
+|---
+|[[Ī́|Ī́ ī́]]||I with macron and acute||Latin, Sanskrit transliteration
+|---
+|[[Ī̀|Ī̀ ī̀]]||I with macron and grave||Latin, Sanskrit transliteration
+|---
+|[[Ī̂|Ī̂ ī̂]]||I with macron and circumflex||
+|---
+|[[Ī̌|Ī̌ ī̌]]||I with macron and caron||
+|---
+|[[Ī̃|Ī̃ ī̃]]||I with macron and tilde||Sanskrit transliteration
+|---
+|[[Ī̄|Ī̄ ī̄]]||I with macron and macron||Kienning Colloquial Romanized transliteration
+|---
+|[[Ī̆|Ī̆ ī̆]]||I with macron and breve||Latin
+|---
+|[[Ī̆́|Ī̆́ ī̆́]]||I with macron and breve and acute||Latin
+|---
+|[[Ĭ|Ĭ ĭ]]||I with breve||Jarai, Latin, Yaghnobi; Previously used in Romanian
+|---
+|[[Ĭ̀|Ĭ̀ ĭ̀]]||I with breve and grave||Latin
+|---
+|[[Ĭ́|Ĭ́ ĭ́]]||I with breve and acute||Latin, Yaghnobi
+|---
+|[[Dotted and dotless I|İ i]]||I (uppercase) with dot above||[[Turkish alphabet|Turkish]], [[Azerbaijani alphabet|Azerbaijani]], Old High German
+|---
+|[[Dotted and dotless I|I ı]]||I (lowercase, i.e. ı) without dot above||[[Turkish alphabet|Turkish]], [[Azerbaijani alphabet|Azerbaijani]], Old High German
+|---
+|[[İ́|İ́ i̇́]]||I with dot above and acute||
+|---
+|[[Ï|Ï ï]]||I with diaeresis||Afrikaans, Catalan, Dutch, French, Greek transliteration, Italian, Spanish
+|---
+|[[Ï̀|Ï̀ ï̀]]||I with diaeresis and grave||Greek transliteration
+|---
+|[[Ḯ|Ḯ ḯ]]||I with diaeresis and acute||Greek transliteration
+|---
+|[[Ï̂|Ï̂ ï̂]]||I with diaeresis and circumflex||
+|---
+|[[Ï̃|Ï̃ ï̃]]||I with diaeresis and tilde||
+|---
+|[[Ï̄|Ï̄ ï̄]]||I with diaeresis and macron||
+|---
+|[[Ï̌|Ï̌ ï̌]]||I with diaeresis and caron||
+|---
+|[[Ï̑|Ï̑ ï̑]]||I with diaeresis and inverted breve||Greek transliteration
+|---
+|[[I̊|I̊ i̊]]||I with ring above||Old High German
+|---
+|[[I̋|I̋ i̋]]||I with double acute||Old High German
+|---
+|[[Ǐ|Ǐ ǐ]]||I with caron||Pinyin
+|---
+|[[Ỉ|Ỉ ỉ]]||I with hook above||Vietnamese
+|---
+|[[I̍|I̍ i̍]]||I with vertical line||Pe̍h-oē-jī, Taiwanese Romanization System and other romanizations of Chinese dialects
+|---
+|[[I̎|I̎ i̎]]||I with double vertical line||
+|---
+|[[Ȉ|Ȉ ȉ]]||I with double grave||Croatian
+|---
+|[[I̐|I̐ i̐]]||I with chandrabindu||ALA-LC Romanization
+|---
+|[[Ȋ|Ȋ ȋ]]||I with inverted breve||Croatian, Old Church Slavonic transliteration
+|---
+|[[I᷎|I᷎ i᷎]]||I with ogonek above||
+|---
+|[[Į|Į į]]||I with ogonek||Lithuanian, Navajo
+|---
+|[[Į̀|Į̀ į̀]]||I with ogonek and grave||Navajo
+|---
+|[[Į́|Į́ į́ į̇́]]||I with ogonek and acute||Lithuanian, Navajo
+|---
+|[[Į̂|Į̂ į̂]]||I with ogonek and circumflex||
+|---
+|[[Į̃|Į̃ į̃ į̇̃]]||I with ogonek and tilde||Lithuanian
+|---
+|[[Į̄|Į̄ į̄]]||I with ogonek and macron||Proto-Germanic
+|---
+|[[Į̄̀|Į̄̀ į̄̀]]||I with ogonek, macron, and grave||
+|---
+|[[Į̄́|Į̄́ į̄́]]||I with ogonek, macron, and acute||
+|---
+|[[Į̄̂|Į̄̂ į̄̂]]||I with ogonek, macron, and circumflex||
+|---
+|[[Į̄̆|Į̄̆ į̄̆]]||I with ogonek, macron, and breve||
+|---
+|[[Į̄̌|Į̄̌ į̄̌]]||I with ogonek, macron, and caron||
+|---
+|[[Į̈|Į̈ į̈]]||I with ogonek and diaeresis||
+|---
+|[[Į̈̀|Į̈̀ į̈̀]]||I with ogonek, diaeresis, and grave||
+|---
+|[[Į̈́|Į̈́ į̈́]]||I with ogonek, diaeresis, and acute||
+|---
+|[[Į̈̂|Į̈̂ į̈̂]]||I with ogonek, diaeresis, and circumflex||
+|---
+|[[Į̈̌|Į̈̌ į̈̌]]||I with ogonek, diaeresis, and caron||
+|---
+|[[Į̈̄|Į̈̄ į̈̄]]||I with ogonek, diaeresis, and macron||
+|---
+|[[Į̋|Į̋ į̋]]||I with ogonek and double acute||
+|---
+|[[Į̌|Į̌ į̌]]||I with ogonek and caron||
+|---
+|[[Į̱|Į̱ į̱]]||I with ogonek and line below||
+|---
+|[[Į̱́|Į̱́ į̱́]]||I with ogonek, line below, and acute||
+|---
+|[[Į̱̀|Į̱̀ į̱̀]]||I with ogonek, line below, and grave||
+|---
+|[[I̓|I̓ i̓]]||I with comma above||Heiltsuk
+|---
+|[[I̧|I̧ i̧]]||I with cedilla||
+|---
+|[[Í̧|Í̧ í̧]]||I with cedilla and acute||
+|---
+|[[Ì̧|Ì̧ ì̧]]||I with cedilla and grave||
+|---
+|[[Î̧|Î̧ î̧]]||I with cedilla and circumflex||
+|---
+|[[I̭|I̭ i̭]]||I with circumflex below||Cuneiform transliteration
+|---
+|[[Ī̭|Ī̭ ī̭]]||I with circumflex below and macron||Cuneiform transliteration
+|---
+|[[Ḭ|Ḭ ḭ]]||I with tilde below||&nbsp;
+|---
+|[[Ḭ̀|Ḭ̀ ḭ̀]]||I with tilde below and grave||
+|---
+|[[Ḭ́|Ḭ́ ḭ́]]||I with tilde below and acute||
+|---
+|[[Ḭ̄|Ḭ̄ ḭ̄]]||I with tilde below and macron||
+|---
+|[[Ḭ̈|Ḭ̈ ḭ̈]]||I with tilde below and diaeresis||
+|---
+|[[Ḭ̈́|Ḭ̈́ ḭ̈́]]||I with tilde below, diaeresis, and acute||
+|---
+|[[I̱|I̱ i̱]]||I with line below||German dialectology
+|---
+|[[Ì̱|Ì̱ ì̱]]||I with line below and grave||
+|---
+|[[Í̱|Í̱ í̱]]||I with line below and acute||
+|---
+|[[Î̱|Î̱ î̱]]||I with line below and circumflex||
+|---
+|[[Ǐ̱|Ǐ̱ ǐ̱]]||I with line below and caron||
+|---
+|[[Ĩ̱|Ĩ̱ ĩ̱]]||I with line below and tilde||
+|---
+|[[Ï̱|Ï̱ ï̱]]||I with line below and diaeresis||
+|---
+|[[Ḯ̱|Ḯ̱ ḯ̱]]||I with line below, diaeresis, and acute||
+|---
+|[[Ï̱̀|Ï̱̀ ï̱̀]]||I with line below, diaeresis, and grave||
+|---
+|[[Ï̱̂|Ï̱̂ ï̱̂]]||I with line below, diaeresis, and circumflex||
+|---
+|[[Ï̱̌|Ï̱̌ ï̱̌]]||I with line below, diaeresis, and caron||
+|---
+|[[Ī̱|Ī̱ ī̱]]||I with line below and macron||
+|---
+|[[Ī̱́|Ī̱́ ī̱́]]||I with line below, macron, and acute||
+|---
+|[[Ī̱̀|Ī̱̀ ī̱̀]]||I with line below, macron, and grave||
+|---
+|[[Ī̱̂|Ī̱̂ ī̱̂]]||I with line below, macron, and circumflex||
+|---
+|[[I̮|I̮ i̮]]||I with breve below||Uralic dialectology
+|---
+|[[Ị|Ị ị]]||I with dot below||Vietnamese
+|---
+|[[Ị̀|Ị̀ ị̀]]||I with dot below and grave||
+|---
+|[[Ị́|Ị́ ị́]]||I with dot below and acute||
+|---
+|[[Ị̂|Ị̂ ị̂]]||I with dot below and circumflex||
+|---
+|[[Ị̃|Ị̃ ị̃]]||I with dot below and tilde||
+|---
+|[[Ị̄|Ị̄ ị̄]]||I with dot below and macron||Romance dialectology
+|---
+|[[Ị̈|Ị̈ ị̈]]||I with dot below and diaeresis||
+|---
+|[[Ị̈̀|Ị̈̀ ị̈̀]]||I with dot below, diaeresis, and grave||
+|---
+|[[Ị̈́|Ị̈́ ị̈́]]||I with dot below, diaeresis, and acute||
+|---
+|[[Ị̈̂|Ị̈̂ ị̈̂]]||I with dot below, diaeresis, and circumflex||
+|---
+|[[Ị̈̌|Ị̈̌ ị̈̌]]||I with dot below, diaeresis, and caron||
+|---
+|[[Ị̌|Ị̌ ị̌]]||I with dot below and caron||
+|---
+|[[Ị̍|Ị̍ ị̍]]||I with dot below and vertical line||
+|---
+|[[I̤|I̤ i̤]]||I with diaeresis below||
+|---
+|[[Ì̤|Ì̤ ì̤]]||I with diaeresis below and grave||
+|---
+|[[Í̤|Í̤ í̤]]||I with diaeresis below and acute||
+|---
+|[[Î̤|Î̤ î̤]]||I with diaeresis below and circumflex||
+|---
+|[[Ï̤|Ï̤ ï̤]]||I with diaeresis below and diaeresis||
+|---
+|[[I̥|I̥ i̥]]||I with ring below||Hebrew transliteration, Arabic transliteration, Yaghnobi
+|---
+|[[Í̥|Í̥ í̥]]||I with ring below and acute||Yaghnobi
+|---
+|[[Ï̥|Ï̥ ï̥]]||I with ring below and diaeresis||
+|---
+|[[I̯|I̯ i̯]]||I with inverted breve below||IPA, Proto-Indo-European
+|---
+|[[Í̯|Í̯ í̯]]||I with inverted breve below and acute||Proto-Indo-European
+|---
+|[[Ĩ̯|Ĩ̯ ĩ̯]]||I with inverted breve below and tilde||Proto-Indo-European
+|---
+|[[I̩|I̩ i̩]]||I with vertical line below||
+|---
+|[[I͔|I͔ i͔]]||I with left arrowhead below||Uralic dialectology
+|---
+|[[Ī͔|Ī͔ ī͔]]||I with left arrowhead below and macron||Uralic dialectology
+|---
+|[[Ɨ|Ɨ ɨ]]||I with stroke||[[Close central unrounded vowel]]; General Alphabet of Cameroon languages
+|---
+|[[Ɨ̀|Ɨ̀ ɨ̀]]||I with stroke and grave||
+|---
+|[[Ɨ́|Ɨ́ ɨ́]]||I with stroke and acute||
+|---
+|[[Ɨ̂|Ɨ̂ ɨ̂]]||I with stroke and circumflex||
+|---
+|[[Ɨ̌|Ɨ̌ ɨ̌]]||I with stroke and caron||
+|---
+|[[Ɨ̃|Ɨ̃ ɨ̃]]||I with stroke and tilde||
+|---
+|[[Ɨ̄|Ɨ̄ ɨ̄]]||I with stroke and macron||
+|---
+|[[Ɨ̈|Ɨ̈ ɨ̈]]||I with stroke and diaeresis||
+|---
+|[[Ɨ̧|Ɨ̧ ɨ̧]]||I with stroke and cedilla||
+|---
+|[[Ɨ̧̀|Ɨ̧̀ ɨ̧̀]]||I with stroke, cedilla and grave||
+|---
+|[[Ɨ̧̂|Ɨ̧̂ ɨ̧̂]]||I with stroke, cedilla, and circumflex||
+|---
+|[[Ɨ̧̌|Ɨ̧̌ ɨ̧̌]]||I with stroke, cedilla and caron||
+|---
+|[[Ɨ̱|Ɨ̱ ɨ̱]]||I with stroke and line below||
+|---
+|[[Ɨ̱̀|Ɨ̱̀ ɨ̱̀]]||I with stroke, line below, and grave||
+|---
+|[[Ɨ̱́|Ɨ̱́ ɨ̱́]]||I with stroke, line below, and acute||
+|---
+|[[Ɨ̱̂|Ɨ̱̂ ɨ̱̂]]||I with stroke, line below, and circumflex||
+|---
+|[[Ɨ̱̈|Ɨ̱̈ ɨ̱̈]]||I with stroke, line below, and diaeresis||
+|---
+|[[Ɨ̱̌|Ɨ̱̌ ɨ̱̌]]||I with stroke, line below, and caron||
+|---
+|[[Ɨ̯|Ɨ̯ ɨ̯]]||I with stroke and inverted breve below||
+|---
+|[[ᶖ]]||I with retroflex hook||&nbsp;
+|---
+|[[ı̣]]||Dotless I with dot below||Slavic dialectology
+|---
+|[[ı̥]]
+|---
+|[[Ɩ̀|Ɩ̀ ɩ̀]]||Iota with grave||
+|---
+|[[Ɩ́|Ɩ́ ɩ́]]||Iota with acute||
+|---
+|[[Ɩ̃|Ɩ̃ ɩ̃]]||Iota with tilde||
+|---
+|[[ᵼ]]||Iota with stroke||&nbsp;
+|---
+|[[J́|J́ j́]]||J with acute||ISO 9, Kharosthi transliteration
+|---
+|[[Ĵ|Ĵ ĵ]]||J with circumflex||Esperanto
+|---
+|[[J̃|J̃ j̃ j̇̃]]||J with tilde||Lithuanian
+|---
+|[[J̄|J̄ j̄]]||J with macron||Kharosthi transliteration
+|---
+|[[J̇]]||J with dot above||Old High German
+|---
+|[[J̈|J̈ j̈]]||J with diaeresis||
+|---
+|[[J̈̇|J̈̇ j̈̇]]||J with three dots above/diaeresis and dot above||Tifinagh transliteration
+|---
+|[[J̊|J̊ j̊]]||J with ring above||Old High German
+|---
+|[[J̋|J̋ j̋]]||J with double acute||
+|---
+|[[ǰ|J̌ ǰ]]||J with caron||Wakhi, Uralic dialectology
+|---
+|[[J̌́|J̌́ ǰ́]]||J with caron and acute||Uralic dialectology
+|---
+|[[J̓|J̓ j̓]]||J with comma above||
+|---
+|[[J᷎ |J᷎ j᷎]]||J with ogonek above||
+|---
+|[[J̱|J̱ j̱]]||J with line below||Sindhi transliteration
+|---
+|[[J̣|J̣ j̣]]||J with dot below||Old High German
+|---
+|[[J̣̌|J̣̌ ǰ̣]]||J with dot below and caron||Wakhi
+|---
+|[[J̥|J̥ j̥]]||J with ring below||IPA and other phonetic alphabets
+|---
+|[[Ɉ|Ɉ ɉ]]||J with stroke||Arhuaco
+|---
+|[[Ɉ̱|Ɉ̱ ɉ̱]]||J with stroke and line below||&nbsp;
+|---
+|[[ʝ]]||J with crossed-tail||[[Voiced palatal fricative]]
+|---
+|[[ȷ]]||Dotless J||Old High German
+|---
+|[[ɟ]]||Dotless J with stroke||[[Voiced palatal plosive]]
+|---
+|[[ʄ]]||Dotless J with stroke and hook||[[Voiced palatal implosive]]
+|---
+|[[K̀|K̀ k̀]]||K with grave||Greek transliteration, ISO 9
+|---
+|[[Ḱ|Ḱ ḱ]]||K with acute||Greek transliteration, ISO 9, Macedonian transliteration
+|---
+|[[K̂|K̂ k̂]]||K with circumflex||Carian transliteration, Proto-Indo-Iranian dialectology
+|---
+|[[K̃|K̃ k̃]]||K with tilde||Greek transliteration
+|---
+|[[K̄|K̄ k̄]]||K with macron||ISO 9
+|---
+|[[K̆|K̆ k̆]]||K with breve||Uralic dialectology
+|---
+|[[K̇|K̇ k̇]]||K with dot above||Old High German; ALA-LC romanizations
+|---
+|[[K̈|K̈ k̈]]||K with diaeresis||Manichaean transliteration
+|---
+|[[Ǩ|Ǩ ǩ]]||K with caron||Skolt Sami, Laz
+|---
+|[[K̑|K̑ k̑]]||K with inverted breve||Proto-Indo-European dialectology, Old Church Slavonic transliteration
+|---
+|[[K̓|K̓ k̓]]||K with comma above||Greek transliteration
+|---
+|[[K̕|K̕ k̕]]||K with comma above right||
+|---
+|[[K̔|K̔ k̔]]||K with reversed comma above||
+|---
+|[[K͑|K͑ k͑]]||K with left half ring above||Armenian transliteration
+|---
+|[[Ķ|Ķ ķ]]||K with cedilla||Latvian
+|---
+|[[K̦|K̦ k̦]]||K with comma below||Old Latgalian
+|---
+|[[K̨|K̨ k̨]]||K with ogonek||Uyghur transliteration
+|---
+|[[Ḵ|Ḵ ḵ]]||K with line below||Hebrew transliteration, Middle Persian transliteration
+|---
+|[[Ḵ̓|Ḵ̓ ḵ̓]]||K with line below and comma above||
+|---
+|[[Ḳ|Ḳ ḳ]]||K with dot below||Arabic transliteration, Georgian transliteration
+|---
+|[[K̮|K̮ k̮]]||K with breve below||Romance dialectology
+|---
+|[[K̥|K̥ k̥]]||K with ring below||
+|---
+|[[K̬|K̬ k̬]]||K with caron below||IPA and other phonetic alphabets
+|---
+|[[K̫|K̫ k̫]]||K with inverted double arch below||IPA and other phonetic alphabets
+|---
+|[[ᶄ]]||K with palatal hook||&nbsp;
+|---
+|[[Ƙ|Ƙ ƙ]]||K with hook||Hausa
+|---
+|[[Ⱪ|Ⱪ ⱪ]]||K with descender||Uyghur. c.f. Cyrillic: [[Қ|Қ қ]]
+|---
+|[[Ꝁ|Ꝁ ꝁ]]||K with stroke||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Ꝃ|Ꝃ ꝃ]]||K with diagonal stroke||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Ꝅ|Ꝅ ꝅ]]||K with stroke and diagonal stroke||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Ꞣ|Ꞣ ꞣ]]||K with oblique stroke||Pre-1921 Latvian letter
+|---
+|[[Small caps|ᴋ̇]]||Small capital K with dot above||
+|---
+|[[L̀|L̀ l̀]]||L with grave||
+|---
+|[[Ĺ|Ĺ ĺ]]||L with acute||Slovak
+|---
+|[[L̂|L̂ l̂]]||L with circumflex||Accented Latvian, ISO 9
+|---
+|[[L̃|L̃ l̃]]||L with tilde||Accented Latvian, Lithuanian
+|---
+|[[L̄|L̄ l̄]]||L with macron||Basque
+|---
+|[[L̇|L̇ l̇]]||L with dot above||Old High German; Previously used in Czech
+|---
+|[[L̈|L̈ l̈]]||L with diaeresis||
+|---
+|[[L̋|L̋ l̋]]||L with double acute||
+|---
+|[[Ľ|Ľ ľ]]||L with caron||Romani, Slovak
+|---
+|[[L̐|L̐ l̐]]||L with chandrabindu||Sanskrit transliteration
+|---
+|[[L̑|L̑ l̑]]||L with inverted breve||Old Church Slavonic transliteration
+|---
+|[[L̓|L̓ l̓]]||L with comma above||Heiltsuk, Thompson
+|---
+|[[L̕|L̕ l̕]]||L with comma above right||
+|---
+|[[Ļ|Ļ ļ]]||L with cedilla||Latvian, [[Marshallese language|Marshallese]]
+|---
+|[[Ļ̂|Ļ̂ ļ̂]]||L with cedilla and circumflex||Accented Latvian
+|---
+|[[Ļ̃|Ļ̃ ļ̃]]||L with cedilla and tilde||Accented Latvian
+|---
+|[[L̦|L̦ l̦]]||L with comma below||[[Nenets language|Nenets]] in the 1930s, Old Latgalian
+|---
+|[[Ḽ|Ḽ ḽ]]||L with circumflex below||Venda
+|---
+|[[Ḻ|Ḻ ḻ]]||L with line below||Middle Persian transliteration, Tamil transliteration
+|---
+|[[Ḻ̓|Ḻ̓ ḻ̓]]||L with comma above and line below||
+|---
+|[[L̮|L̮ l̮]]||L with breve below||Romance dialectology
+|---
+|[[Ḷ|Ḷ ḷ]]||L with dot below||Bengali transliteration, Iñupiat, Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ḷ̀|Ḷ̀ ḷ̀]]||L with grave and dot below||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ḷ́|Ḷ́ ḷ́]]||L with acute and dot below||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ḹ|Ḹ ḹ]]||L with dot below and macron||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ḹ́|Ḹ́ ḹ́]]||L with dot below and macron and acute||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ḹ̆|Ḹ̆ ḹ̆]]||L with dot below and macron and breve||Proto-Indo-European
+|---
+|[[Ḷ̓|Ḷ̓ ḷ̓]]||L with comma above and dot below||
+|---
+|[[Ḷ̕|Ḷ̕ ḷ̕]]||L with comma above right and dot below||
+|---
+|[[Ḷ̣|Ḷ̣ ḷ̣]]||L with colon below||Hebrew transliteration
+|---
+|[[L̤|L̤ l̤]]||L with diaeresis below||Bengali transliteration
+|---
+|[[L̤̄|L̤̄ l̤̄]]||L with diaeresis below and macron||Bengali transliteration
+|---
+|[[L̥|L̥ l̥]]||L with ring below||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[L̥̀|L̥̀ l̥̀]]||L with ring below and grave||Sanskrit transliteration
+|---
+|[[Ĺ̥|Ĺ̥ ĺ̥]]||L with ring below and acute||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[L̥̄|L̥̄ l̥̄]]||L with ring below and macron||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[L̥̄́|L̥̄́ l̥̄́]]||L with ring below and macron and acute||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[L̥̄̆|L̥̄̆ l̥̄̆]]||L with ring below and macron and breve||Proto-Indo-European
+|---
+|[[L̥̕|L̥̕ l̥̕]]||L with ring below and caron||Sanskrit transliteration
+|---
+|[[L̩|L̩ l̩]]||L with vertical line below||IPA and other phonetic alphabets
+|---
+|[[L̩̀|L̩̀ l̩̀]]||L with vertical line below and grave||
+|---
+|[[L̩̓|L̩̓ l̩̓]]||L with vertical line below and comma above||
+|---
+|[[L̯|L̯ l̯]]||L with inverted breve below||IPA and other phonetic alphabets
+|---
+|[[Ł|Ł ł]]||L with stroke||Gwich'in, Iñupiat, Kashubian, Navajo, Polish, Sorbian
+|---
+|[[Ł̇|Ł̇ ł̇]]||L with stroke and dot above||
+|---
+|[[Ł̓|Ł̓ ł̓]]||L with stroke and comma above||
+|---
+|[[Ł̣|Ł̣ ł̣]]||L with stroke and dot below||Iñupiat
+|---
+|[[Ł̱|Ł̱ ł̱]]||L with stroke and line below||
+|---
+|[[Ꝉ|Ꝉ ꝉ]]||L with high stroke||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Ƚ|Ƚ ƚ]]||L with bar||Saanich
+|---
+|[[Ⱡ|Ⱡ ⱡ]]||L with double bar||Melpa
+|---
+|[[Ɫ|Ɫ ɫ]]||L with middle tilde||[[Velarized alveolar lateral approximant]]
+|---
+|[[ɬ]]||L with belt||[[Voiceless alveolar lateral fricative]]
+|---
+|[[ᶅ]]||L with palatal hook||&nbsp;
+|---
+|[[ɭ]]||L with retroflex hook||[[Retroflex lateral approximant]]
+|---
+|[[ꞎ]]||L with retroflex hook and belt||[[Voiceless retroflex lateral fricative]] in [[Toda language|Toda]]
+|---
+|[[ȴ]]||L with curl||&nbsp;
+|---
+|[[Small caps|ʟ̇]]||Small capital L with dot above||
+|---
+|[[Small caps|ʟ̣]]||Small capital L with dot below||
+|---
+|[[ƛ]]||Lambda with stroke||&nbsp;
+|---
+|[[ƛ̓]]||Lambda with stroke and comma above||
+|---
+|[[λ̴]]||Lambda with middle tilde||Heiltsuk
+|---
+|[[λ̴̓]]||Lambda with middle tilde and comma above||Heiltsuk
+|---
+|[[M̀|M̀ m̀]]||M with grave||Doo, Gokana, Kikongo, Old Italian, Tarok, Yoruba, Pinyin transliteration and other transliterations of Chinese dialects
+|---
+|[[Ḿ|Ḿ ḿ]]||M with acute||Dii, Gokana, Makari, Tarok, Võro, Yoruba, Yupik, Pinyin transliteration and other transliterations of Chinese dialects; previously used in Sorbian
+|---
+|[[M̂|M̂ m̂]]||M with circumflex||Accented Latvian, Luxembourgian, Old High German, Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[M̃|M̃ m̃]]||M with tilde||Accented Latvian, Lithuanian, Lycian transliteration
+|---
+|[[M̄|M̄ m̄]]||M with macron||Kharosthi transliteration, Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[M̆|M̆ m̆]]||M with breve||Sinhala transliteration
+|---
+|[[Ṁ|Ṁ ṁ]]||M with dot above||Irish (old orthography), Old High German, Sanskrit transliteration
+|---
+|[[Ṁ̇|Ṁ̇ ṁ̇]]||M with colon above||Sanskrit transliteration
+|---
+|[[M̈|M̈ m̈]]||M with diaeresis||Araki, Old German
+|---
+|[[M̋|M̋ m̋]]||M with double acute||
+|---
+|[[M̍|M̍ m̍]]||M with vertical line||Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects.
+|---
+|[[M̌|M̌ m̌]]||M with caron||Tarok
+|---
+|[[M̐|M̐ m̐]]||M with chandrabindu||Sanskrit transliteration
+|---
+|[[M̑|M̑ m̑]]||M with inverted breve||Old Church Slavonic transliteration
+|---
+|[[M̓|M̓ m̓]]||M with comma above||
+|---
+|[[M̕|M̕̕ m̕]]||M with comma above right||
+|---
+|[[M͑|M͑ m͑]]||M with left half ring above||Armenian transliteration
+|---
+|[[ᵯ]]||M with middle tilde||&nbsp;
+|---
+|[[M̧|M̧ m̧]]||M with cedilla||Marshallese
+|---
+|[[M̨|M̨ m̨]]||M with ogonek||Avestan transliteration, Uralic dialectology
+|---
+|[[M̦|M̦ m̦]]||M with comma below||Nenets in the 1930's
+|---
+|[[M̱|M̱ m̱]]||M with line below||Middle Persian transliteration, Telugu transliteration
+|---
+|[[Ḿ̱|Ḿ̱ ḿ̱]]||M with line below and acute||Telugu transliteration
+|---
+|[[M̮|M̮ m̮]]||M with breve below||Romance Dialectology
+|---
+|[[Ṃ|Ṃ ṃ]]||M with dot below||Sanskrit transliteration, Thaana transliteration
+|---
+|[[Ṃ́|Ṃ́ ṃ́]]||M with acute and dot below||Thaana transliteration
+|---
+|[[Ṃ̄|Ṃ̄ ṃ̄]]||M with macron and dot below||Thaana transliteration
+|---
+|[[Ṃ̓|Ṃ̓ ṃ̓]]||M with comma above and dot below||
+|---
+|[[M̥|M̥ m̥]]||M with ring below||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ḿ̥|Ḿ̥ ḿ̥]]||M with ring below and acute||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[M̥̄|M̥̄ m̥̄]]||M with ring below and macron||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[M̥̄́|M̥̄́ m̥̄́]]||M with ring below and macron and acute||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[M̥̄̆|M̥̄̆ m̥̄̆]]||M with ring below and macron and breve||Proto-Indo-European
+|---
+|[[M̬|M̬ m̬]]||M with caron below||Uralic dialectology
+|---
+|[[M̩|M̩ m̩]]||M with vertical line below||IPA and other phonetic alphabets
+|---
+|[[M̩̀|M̩̀ m̩̀]]||M with vertical line below and grave||
+|---
+|[[M̩̓|M̩̓ m̩̓]]||M with vertical line below and comma above||
+|---
+|[[M̯|M̯ m̯]]||M with inverted breve below||IPA and other phonetic alphabets
+|---
+|[[ᶆ]]||M with palatal hook||&nbsp;
+|---
+|[[m̢]]||M with retroflex hook||
+|---
+|[[Ɱ|Ɱ ɱ]]||M with hook||[[Labiodental nasal]]
+|---
+|[[Small caps|ᴍ̇]]||Small capital M with dot above||
+|---
+|[[Small caps|ᴍ̣]]||Small capital M with dot below||
+|---
+|[[Ǹ|Ǹ ǹ]]||N with grave||Dii, Kikongo, Old Italian, Pe̍h-ōe-jī, Tarok, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[Ń|Ń ń]]||N with acute||Polish, Kashubian, Lule Sámi, Pe̍h-ōe-jī, Sorbian, Tarok, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[N̂|N̂ n̂]]||N with circumflex||Chiricahua, Accented Latvian, Luxembourgian, Massa, ISO 9, Old High German, Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[Ñ|Ñ ñ]]||N with tilde||Aragonese, Asturian, Basque, Breton, Catalan, Galician, Guaraní, Hassaniya, Iñupiat, Accented Latvian, Lithuanian, Ocaina, Quechua, Sanskrit transliteration, Spanish, Tagalog, Wolof
+|---
+|[[Ñ̈|Ñ̈ ñ̈]]||N with tilde and diaeresis||Ocaina
+|---
+|[[N̄|N̄ n̄]]||N with macron||Basque, Kharosthi transliteration, Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[N̆|N̆ n̆]]||N with breve||Sinhala transliteration
+|---
+|[[Ṅ|Ṅ ṅ]]||N with dot above||Sanskrit transliteration
+|---
+|[[Ṅ̇|Ṅ̇ ṅ̇]]||N with colon above||Sanskrit transliteration
+|---
+|[[N̈|N̈ n̈]]||N with diaeresis||Cape Verdan Creole, Jacaltec, Malagasy, Ocaina, Old German
+|---
+|[[N̋|N̋ n̋]]||N with double acute||Malagasy
+|---
+|[[Ň|Ň ň]]||N with caron||Czech, Slovak, Tarok, Turkmen
+|---
+|[[N̐|N̐ n̐]]||N with chandrabindu||Sanskrit transliteration
+|---
+|[[N̑|N̑ n̑]]||N with inverted breve||Old Church Slavonic Transliteration
+|---
+|[[N̍|N̍ n̍]]||N with vertical line||Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects.
+|---
+|[[N̓|N̓ n̓]]||N with comma above||
+|---
+|[[N̕|N̕ n̕]]||N with comma above right||
+|---
+|[[Ꞥ|Ꞥ ꞥ]]||N with oblique stroke||Pre-1921 Latvian letter
+|---
+|[[ᵰ]]||N with middle tilde||&nbsp;
+|---
+|[[Ņ|Ņ ņ]]||N with cedilla||Latvian
+|---
+|[[Ņ̂|Ņ̂ ņ̂]]||N with cedilla and circumflex||Accented Latvian
+|---
+|[[Ņ̃|Ņ̃ ņ̃]]||N with cedilla and tilde||Accented Latvian
+|---
+|[[N̦|N̦ n̦]]||N with comma below||Old Latgalian, Nenets in the 1930s
+|---
+|[[N̨|N̨ n̨]]||N with ogonek||Azerbaijani, Tatar (alternate form of N with descender), Tuvan transliteration, Uralic dialectology
+|---
+|[[Ṋ|Ṋ ṋ]]||N with circumflex below||Venda
+|---
+|[[N̰|N̰ n̰]]||N with tilde below||
+|---
+|[[Ṉ|Ṉ ṉ]]||N with line below||Tamil transliteration, Telugu transliteration
+|---
+|[[Ṉ́|Ṉ́ ṉ́]]||N with line below and acute||Telugu transliteration
+|---
+|[[N̮|N̮ n̮]]||N with breve below||Romance dialectology
+|---
+|[[Ṇ|Ṇ ṇ]]||N with dot below||used in phonetic Sanskrit transliteration, Thaana transliteration
+|---
+|[[Ṇ́|Ṇ́ ṇ́]]||N with acute and dot below||Thaana transliteration
+|---
+|[[Ṇ̄|Ṇ̄ ṇ̄]]||N with macron and dot below||Thaana transliteration
+|---
+|[[Ṇ̄́|Ṇ̄́ ṇ̄́]]||N with macron and acute and dot below||Thaana transliteration
+|---
+|[[Ṇ̓|Ṇ̓ ṇ̓]]||N with comma above and dot below||
+|---
+|[[N̤|N̤ n̤]]||N with diaeresis below||Arabic transliteration, Sindhi transliteration, Tamil transliteration
+|---
+|[[N̥|N̥ n̥]]||N with ring below||Proto-Indo-European, Sanskrit transliteration, Arabic transliteration
+|---
+|[[Ǹ̥|Ǹ̥ ǹ̥]]||N with ring below and grave||Sanskrit transliteration
+|---
+|[[Ń̥|Ń̥ ń̥]]||N with ring below and acute||Proto-Indo-European, Sanskrit transliteration
+|---
+|[[Ñ̥|Ñ̥ ñ̥]]||N with ring below and tilde||Sanskrit transliteration
+|---
+|[[Ñ̥́|Ñ̥́ ñ̥́]]||N with ring below and tilde and acute||Sanskrit transliteration
+|---
+|[[N̥̄|N̥̄ n̥̄]]||N with ring below and macron||Proto-Indo-European,  Sanskrit transliteration
+|---
+|[[N̥̄́|N̥̄́ n̥̄́]]||N with ring below and macron and acute||Proto-Indo-European,  Sanskrit transliteration
+|---
+|[[N̥̄̆|N̥̄̆ n̥̄̆]]||N with ring below and macron and breve||Proto-Indo-European
+|---
+|[[N̥̄̑|N̥̄̑ n̥̄̑]]||N with ring below and macron and inverted breve||Proto-Indo-European
+|---
+|[[Ṅ̥|Ṅ̥ ṅ̥]]||N with ring below and dot above||Sanskrit transliteration
+|---
+|[[N̥̑|N̥̑ n̥̑]]||N with ring below and inverted breve||Proto-Indo-European
+|---
+|[[N̥̑́|N̥̑́ n̥̑́]]||N with ring below and inverted breve and acute||Proto-Indo-European
+|---
+|[[N̥̑̄|N̥̑̄ n̥̑̄]]||N with ring below and inverted breve and macron||Proto-Indo-European
+|---
+|[[N̯|N̯ n̯]]||N with inverted breve below||
+|---
+|[[N̩|N̩ n̩]]||N with vertical line below||IPA and other phonetic alphabets
+|---
+|[[Ǹ̩|Ǹ̩ ǹ̩]]||N with vertical line below and grave||
+|---
+|[[N̩̓|N̩̓ n̩̓]]||N with vertical line below and comma above||
+|---
+|[[N̲|N̲ n̲]]||N with underline||
+|---
+|[[Ɲ|Ɲ ɲ]]||N with left hook||[[Palatal nasal]]; Bambara and other African languages
+|---
+|[[Ƞ|Ƞ ƞ]]||N with long right leg||Jakota
+|---
+|[[Ꞑ|Ꞑ ꞑ]]||N with descender||[[Jaꞑalif]] letter for [[Tatar language|Tatar]]
+|---
+|[[Ŋ̀|Ŋ̀ ŋ̀]]||Eng with grave||
+|---
+|[[Ŋ́|Ŋ́ ŋ́]]||Eng with acute||Avestan transliteration
+|---
+|[[Ŋ̂|Ŋ̂ ŋ̂]]||Eng with circumflex||Old High German
+|---
+|[[Ŋ̄|Ŋ̄ ŋ̄]]||Eng with macron||
+|---
+|[[Ŋ̈|Ŋ̈ ŋ̈]]||Eng with diaeresis||
+|---
+|[[Ŋ̂̈̇|Ŋ̈̇ ŋ̈̇]]||Eng with diaeresis and dot above (three dots above)||Tifinagh transliteration
+|---
+|[[Ŋ̊|Ŋ̊ ŋ̊]]||Eng with ring above||IPA and other phonetic alphabets
+|---
+|[[Ŋ̑|Ŋ̑ ŋ̑]]||Eng with inverted breve||Old Church Slavonic transliteration
+|---
+|[[Ŋ̨|Ŋ̨ ŋ̨]]||Eng with ogonek||Uralic dialectology
+|---
+|[[Ŋ̥|Ŋ̥ ŋ̥]]||Eng with ring below||Proto-Indo-European
+|---
+|[[Ŋ̥́|Ŋ̥́ ŋ̥́]]||Eng with ring below and acute||Proto-Indo-European
+|---
+|[[Ŋ̥̄|Ŋ̥̄ ŋ̥̄]]||Eng with ring below and macron||Proto-Indo-European
+|---
+|[[Ŋ̥̄́|Ŋ̥̄́ ŋ̥̄́]]||Eng with ring below and macron and acute||Proto-Indo-European
+|---
+|[[ᶇ]]||N with palatal hook||&nbsp;
+|---
+|[[ɳ]]||N with retroflex hook||[[Retroflex nasal]]
+|---
+|[[ȵ]]||N with curl||&nbsp;
+|---
+|[[Small caps|ɴ̇]]||Small capital N with dot above||
+|---
+|[[Small caps|ɴ̣]]||Small capital N with dot below||
+|---
+|[[Ò|Ò ò]]||O with grave||Maltese, Italian, Pinyin transliteration, Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[Ó|Ó ó]]||O with acute||Italian, Polish, Pinyin transliteration, Pe̍h-ōe-jī, Spanish, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[Ô|Ô ô]]||O with circumflex||French, Jarai, Kashubian, Portuguese, Slovak, Vietnamese, Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[Ố|Ố ố]]||O with circumflex and acute||Vietnamese
+|---
+|[[Ồ|Ồ ồ]]||O with circumflex and grave||Vietnamese
+|---
+|[[Ỗ|Ỗ ỗ]]||O with circumflex and tilde||Vietnamese
+|---
+|[[Ô̆|Ô̆ ô̆]]||O with circumflex and breve||Jarai
+|---
+|[[Ổ|Ổ ổ]]||O with circumflex and hook above||Vietnamese
+|---
+|[[Õ|Õ õ]]||O with tilde||Portuguese, Vietnamese
+|---
+|[[Õ̍|Õ̍ õ̍]]||O with tilde and vertical line||
+|---
+|[[Õ̎|Õ̎ õ̎]]||O with tilde and double vertical line||
+|---
+|[[Õ̀|Õ̀ õ̀]]||O with tilde and grave||
+|---
+|[[Ṍ|Ṍ ṍ]]||O with tilde and acute||&nbsp;
+|---
+|[[Õ̂|Õ̂ õ̂]]||O with tilde and circumflex||
+|---
+|[[Õ̌|Õ̌ õ̌]]||O with tilde and caron||
+|---
+|[[Ṏ|Ṏ ṏ]]||O with tilde and diaeresis||&nbsp;
+|---
+|[[Ȭ|Ȭ ȭ]]||O with tilde and macron||&nbsp;
+|---
+|[[Ō|Ō ō]]||O with macron||Pre-1946 Latvian letter, still sometimes used in some non-standard orthographies
+|---
+|[[Ṓ|Ṓ ṓ]]||O with macron and acute||&nbsp;
+|---
+|[[Ṑ|Ṑ ṑ]]||O with macron and grave||&nbsp;
+|---
+|[[Ō̂|Ō̂ ō̂]]||O with macron and circumflex||
+|---
+|[[Ō̃|Ō̃ ō̃]]||O with macron and tilde||
+|---
+|[[Ō̃́|Ō̃́ ō̃́]]||O with macron and tilde and acute||
+|---
+|[[Ō̄|Ō̄ ō̄]]||O with macron and macron||Kienning Colloquial Romanized transliteration
+|---
+|[[Ō̆|Ō̆ ō̆]]||O with macron and breve||
+|---
+|[[Ō̆́|Ō̆́ ō̆́]]||O with macron and breve and acute||
+|---
+|[[Ō̈|Ō̈ ō̈]]||O with macron and diaeresis||
+|---
+|[[Ō̌|Ō̌ ō̌]]||O with macron and caron||
+|---
+|[[Ŏ|Ŏ ŏ]]||O with breve||Foochow Romanized, Jarai, Latin
+|---
+|[[Ŏ̀|Ŏ̀ ŏ̀]]||O with breve and grave||
+|---
+|[[Ŏ́|Ŏ́ ŏ́]]||O with breve and acute||
+|---
+|[[Ŏ̈|Ŏ̈ ŏ̈]]||O with breve and diaeresis||
+|---
+|[[Ȯ|Ȯ ȯ]]||O with dot above||&nbsp;
+|---
+|[[Ȯ́|Ȯ́ ȯ́]]||O with dot above and acute||
+|---
+|[[Ȱ|Ȱ ȱ]]||O with dot above and macron||&nbsp;
+|---
+|[[O͘|O͘ o͘]]||O with dot above right||[[Pe̍h-ōe-jī]]
+|---
+|[[Ó͘|Ó͘ ó͘]]||O with dot above right and acute||Pe̍h-ōe-jī
+|---
+|[[Ò͘|Ò͘ ò͘]]||O with dot above right and grave||Pe̍h-ōe-jī
+|---
+|[[Ō͘|Ō͘ ō͘]]||O with dot above right and macron||Pe̍h-ōe-jī
+|---
+|[[O̍͘|O̍͘ o̍͘]]||O with dot above and vertical line||Pe̍h-ōe-jī
+|---
+|[[Ö|Ö ö]]||O with diaeresis||Emiliano-Romagnolo, Estonian, Finnish, German, Luxembourgish, North Frisian, Rotuman, Sami, Saterlandic, Slovak, Tatar, Turkmen, and Ulster-Scots; cf. Cyrillic: [[Ӧ|Ӧ ӧ]]
+|---
+|[[Ö́|Ö́ ö́]]||O with diaeresis and acute||
+|---
+|[[Ö̀|Ö̀ ö̀]]||O with diaeresis and grave||[[Zurich German]] (some spellings)<ref name="fleischerschmid">{{citation|last=Fleischer|first=Jürg|last2=Schmid|first2=Stephan|year=2006|title=Zurich German|journal=Journal of the International Phonetic Association|volume=36|issue=2|page=251|doi=10.1017/S0025100306002441|url=http://www.uta.edu/faculty/cmfitz/swnal/projects/CoLang/courses/Transcription/Fleischer_and_Schmidt.pdf}}</ref>
+|---
+|[[Ö̂|Ö̂ ö̂]]||O with diaeresis and circumflex||
+|---
+|[[Ö̌|Ö̌ ö̌]]||O with diaeresis and caron||
+|---
+|[[Ö̃|Ö̃ ö̃]]||O with diaeresis and tilde||
+|---
+|[[Ȫ|Ȫ ȫ]]||O with diaeresis and macron||&nbsp;
+|---
+|[[Ȫ̆|Ȫ̆ ȫ̆]]||O with diaeresis and macron and breve||
+|---
+|[[Ö̆|Ö̆ ö̆]]||O with diaeresis and breve||
+|---
+|[[Ỏ|Ỏ ỏ]]||O with hook above||Vietnamese
+|---
+|[[O̊|O̊ o̊]]||O with ring above||
+|---
+|[[Ő|Ő ő]]||O with double acute||Hungarian
+|---
+|[[Ǒ|Ǒ ǒ]]||O with caron||Pinyin transliteration
+|---
+|[[O̍|O̍ o̍]]||O with vertical line||Pe̍h-ōe-jī, Taiwanese Romanization System
+|---
+|[[O̎|O̎ o̎]]||O with double vertical line||
+|---
+|[[Ȍ|Ȍ ȍ]]||O with double grave||&nbsp;
+|---
+|[[O̐|O̐ o̐]]||O with chandrabindu||
+|---
+|[[Ȏ|Ȏ ȏ]]||O with inverted breve||&nbsp;
+|---
+|[[O̓|O̓ o̓]]||O with comma above||
+|---
+|[[Ø|Ø ø]]||O with stroke||[[Close-mid front rounded vowel]]
+|---
+|[[Ø̀|Ø̀ ø̀]]||O with stroke and grave||
+|---
+|[[Ǿ|Ǿ ǿ]]||O with stroke and acute||&nbsp;
+|---
+|[[Ø̂|Ø̂ ø̂]]||O with stroke and circumflex||
+|---
+|[[Ø̃|Ø̃ ø̃]]||O with stroke and tilde||
+|---
+|[[Ø̄|Ø̄ ø̄]]||O with stroke and macron||
+|---
+|[[Ø̄́|Ø̄́ ø̄́]]||O with stroke, macron, and acute||
+|---
+|[[Ø̄̆|Ø̄̆ ø̄̆]]||O with stroke, macron, and breve||
+|---
+|[[Ø̆|Ø̆ ø̆]]||O with stroke and breve||
+|---
+|[[Ø̇|Ø̇ ø̇]]||O with stroke and dot above||
+|---
+|[[Ø̇́|Ø̇́ ø̇́]]||O with stroke, dot above, and acute||
+|---
+|[[Ø̈|Ø̈ ø̈]]||O with stroke and diaeresis||
+|---
+|[[Ø̋|Ø̋ ø̋]]||O with stroke and double acute||
+|---
+|[[Ø̌|Ø̌ ø̌]]||O with stroke and caron||
+|---
+|[[Ø᷎|Ø᷎ ø᷎]]||O with stroke and ogonek above||
+|---
+|[[Ø̨|Ø̨ ø̨]]||O with stroke and ogonek||
+|---
+|[[Ǿ̨|Ǿ̨ ǿ̨]]||O with stroke, ogonek, and acute||
+|---
+|[[Ø̨̄|Ø̨̄ ø̨̄]]||O with stroke, ogonek, and macron||
+|---
+|[[Ø̣|Ø̣ ø̣]]||O with stroke and dot below||
+|---
+|[[Ø̥|Ø̥ ø̥]]||O with stroke and ring below||
+|---
+|[[Ø̰|Ø̰ ø̰]]||O with stroke and tilde below||
+|---
+|[[Ǿ̰|Ǿ̰ ǿ̰]]||O with stroke, tilde below, and acute||
+|---
+|[[Ɵ|Ɵ ɵ]]||O with bar||[[Close-mid central rounded vowel]]. cf. Cyrillic: [[Ө|Ө ө]]
+|---
+|[[Ơ|Ơ ơ]]||O with horn||Jarai, Vietnamese
+|---
+|[[Ớ|Ớ ớ]]||O with horn and acute||Vietnamese
+|---
+|[[Ờ|Ờ ờ]]||O with horn and grave||Vietnamese
+|---
+|[[Ỡ|Ỡ ỡ]]||O with horn and tilde||Vietnamese
+|---
+|[[Ơ̆|Ơ̆ ơ̆]]||O with horn and breve||Jarai
+|---
+|[[Ở|Ở ở]]||O with horn and hook above||Vietnamese
+|---
+|[[O᷎|O᷎ o᷎]]||O with ogonek above||
+|---
+|[[Ó᷎|Ó᷎ ó᷎]]||O with ogonek above and acute||
+|---
+|[[O̧|O̧ o̧]]||O with cedilla||
+|---
+|[[Ó̧|Ó̧ ó̧]]||O with acute and cedilla||
+|---
+|[[Ò̧|Ò̧ ò̧]]||O with grave and cedilla||
+|---
+|[[Ô̧|Ô̧ ô̧]]||O with circumflex and cedilla||
+|---
+|[[Ǒ̧|Ǒ̧ ǒ̧]]||O with caron and cedilla||
+|---
+|[[Ǫ|Ǫ ǫ]]||O with ogonek||&nbsp;
+|---
+|[[Ǫ̀|Ǫ̀ ǫ̀]]||O with grave and ogonek||
+|---
+|[[Ǫ́|Ǫ́ ǫ́]]||O with acute and ogonek||
+|---
+|[[Ǫ̂|Ǫ̂ ǫ̂]]||O with circumflex and ogonek||
+|---
+|[[Ǫ̃|Ǫ̃ ǫ̃]]||O with tilde and ogonek||
+|---
+|[[Ǭ|Ǭ ǭ]]||O with macron and ogonek||&nbsp;
+|---
+|[[Ǭ̀|Ǭ̀ ǭ̀]]||O with macron, grave and ogonek||
+|---
+|[[Ǭ́|Ǭ́ ǭ́]]||O with macron, acute and ogonek||
+|---
+|[[Ǭ̂|Ǭ̂ ǭ̂]]||O with macron, circumflex and ogonek||
+|---
+|[[Ǭ̃|Ǭ̃ ǭ̃]]||O with macron, tilde and ogonek||
+|---
+|[[Ǭ̆|Ǭ̆ ǭ̆]]||O with macron, breve and ogonek||
+|---
+|[[Ǭ̌|Ǭ̌ ǭ̌]]||O with macron, caron and ogonek||
+|---
+|[[Ǫ̆|Ǫ̆ ǫ̆]]||O with breve and ogonek||
+|---
+|[[Ǫ̆́|Ǫ̆́ ǫ̆́]]||O with breve, acute and ogonek||
+|---
+|[[Ǫ̇|Ǫ̇ ǫ̇]]||O with dot above and ogonek||
+|---
+|[[Ǫ̇́|Ǫ̇́ ǫ̇́]]||O with dot above, acute, and ogonek||
+|---
+|[[Ǫ̈|Ǫ̈ ǫ̈]]||O with diaeresis and ogonek||
+|---
+|[[Ǫ̈̀|Ǫ̈̀ ǫ̈̀]]||O with diaeresis, grave, and ogonek||
+|---
+|[[Ǫ̈́|Ǫ̈́ ǫ̈́]]||O with diaeresis, acute, and ogonek||
+|---
+|[[Ǫ̈̂|Ǫ̈̂ ǫ̈̂]]||O with diaeresis, circumflex, and ogonek||
+|---
+|[[Ǫ̈̄|Ǫ̈̄ ǫ̈̄]]||O with diaeresis, macron, and ogonek||
+|---
+|[[Ǫ̈̌|Ǫ̈̌ ǫ̈̌]]||O with diaeresis, caron, and ogonek||
+|---
+|[[Ǫ̋|Ǫ̋ ǫ̋]]||O with double acute and ogonek||
+|---
+|[[Ǫ̌|Ǫ̌ ǫ̌]]||O with caron and ogonek||
+|---
+|[[Ǫ̑|Ǫ̑ ǫ̑]]||O with inverted breve and ogonek||
+|---
+|[[Ǫ̣|Ǫ̣ ǫ̣]]||O with ogonek and dot below||
+|---
+|[[Ǫ̱|Ǫ̱ ǫ̱]]||O with ogonek and line below||
+|---
+|[[Ǫ̱́|Ǫ̱́ ǫ̱́]]||O with ogonek, line below, and acute||
+|---
+|[[Ǫ̱̀|Ǫ̱̀ ǫ̱̀]]||O with ogonek, line below, and grave||
+|---
+|[[Ǫ᷎|Ǫ᷎ ǫ᷎]]||O with ogonek above and ogonek||&nbsp;
+|---
+|[[O̭|O̭ o̭]]||O with circumflex below||
+|---
+|[[O̰|O̰ o̰]]||O with tilde below||
+|---
+|[[Ó̰|Ó̰ ó̰]]||O with tilde below and acute||
+|---
+|[[O̱|O̱ o̱]]||O with line below||
+|---
+|[[Ò̱|Ò̱ ò̱]]||O with grave and line below||
+|---
+|[[Ó̱|Ó̱ ó̱]]||O with acute and line below||
+|---
+|[[Ô̱|Ô̱ ô̱]]||O with circumflex and line below||
+|---
+|[[Ǒ̱|Ǒ̱ ǒ̱]]||O with caron and line below||
+|---
+|[[Õ̱|Õ̱ õ̱]]||O with tilde and line below||
+|---
+|[[Ō̱|Ō̱ ō̱]]||O with macron and line below||
+|---
+|[[Ṓ̱|Ṓ̱ ṓ̱]]||O with macron, acute, and line below||
+|---
+|[[Ṑ̱|Ṑ̱ ṑ̱]]||O with macron, grave, and line below||
+|---
+|[[Ō̱̂|Ō̱̂ ō̱̂]]||O with macron, circumflex, and line below||
+|---
+|[[Ö̱|Ö̱ ö̱]]||O with diaeresis and line below||
+|---
+|[[Ö̱́|Ö̱́ ö̱́]]||O with diaeresis, acute, and line below||
+|---
+|[[Ö̱̀|Ö̱̀ ö̱̀]]||O with diaeresis, grave, and line below||
+|---
+|[[Ö̱̂|Ö̱̂ ö̱̂]]||O with diaeresis, circumflex, and line below||
+|---
+|[[Ö̱̌|Ö̱̌ ö̱̌]]||O with diaeresis, caron, and line below||
+|---
+|[[O̮|O̮ o̮]]||O with breve below||
+|---
+|[[Ọ|Ọ ọ]]||O with dot below||Vietnamese, Yoruba
+|---
+|[[Ọ̀|Ọ̀ ọ̀]]||O with grave and dot below||
+|---
+|[[Ọ́|Ọ́ ọ́]]||O with acute and dot below||
+|---
+|[[Ộ|Ộ ộ]]||O with circumflex and dot below||Vietnamese
+|---
+|[[Ọ̃|Ọ̃ ọ̃]]||O with tilde and dot below||
+|---
+|[[Ọ̄|Ọ̄ ọ̄]]||O with macron and dot below||
+|---
+|[[Ọ̄̀|Ọ̄̀ ọ̄̀]]||O with macron and grave and dot below||
+|---
+|[[Ọ̄́|Ọ̄́ ọ̄́]]||O with macron and acute and dot below||
+|---
+|[[Ọ̄̃|Ọ̄̃ ọ̄̃]]||O with macron and tilde and dot below||
+|---
+|[[Ọ̄̆|Ọ̄̆ ọ̄̆]]||O with macron and breve and dot below||
+|---
+|[[Ọ̆|Ọ̆ ọ̆]]||O with breve and dot below||
+|---
+|[[Ọ̈|Ọ̈ ọ̈]]||O with diaeresis and dot below||
+|---
+|[[Ọ̈̀|Ọ̈̀ ọ̈̀]]||O with diaeresis, grave, and dot below||
+|---
+|[[Ọ̈́|Ọ̈́ ọ̈́]]||O with diaeresis, acute, and dot below||
+|---
+|[[Ọ̈̂|Ọ̈̂ ọ̈̂]]||O with diaeresis, circumflex, and dot below||
+|---
+|[[Ọ̈̄|Ọ̈̄ ọ̈̄]]||O with diaeresis, macron, and dot below||
+|---
+|[[Ọ̈̌|Ọ̈̌ ọ̈̌]]||O with diaeresis, caron, and dot below||
+|---
+|[[Ọ̌|Ọ̌ ọ̌]]||O with caron and dot below||
+|---
+|[[Ọ̑|Ọ̑ ọ̑]]||O with inverted breve and dot below||
+|---
+|[[Ợ|Ợ ợ]]||O with horn and dot below||Vietnamese
+|---
+|[[Ọ|Ọ ọ]]||O with vertical line and dot below||
+|---
+|[[O̤|O̤ o̤]]||O with diaeresis below||
+|---
+|[[Ò̤|Ò̤ ò̤]]||O with diaeresis below and grave||
+|---
+|[[Ó̤|Ó̤ ó̤]]||O with diaeresis below and acute||
+|---
+|[[Ô̤|Ô̤ ô̤]]||O with diaeresis below and circumflex||
+|---
+|[[Ö̤|Ö̤ ö̤]]||O with diaeresis below and diaeresis||
+|---
+|[[O̥|O̥ o̥]]||O with ring below||
+|---
+|[[Ō̥|Ō̥ ō̥]]||O with ring below and macron||
+|---
+|[[O̬|O̬ o̬]]||O with caron below||
+|---
+|[[O̯|O̯ o̯]]||O with inverted breve below||
+|---
+|[[O̩|O̩ o̩]]||O with vertical line below||
+|---
+|[[Õ͔|Õ͔ õ͔]]||O with left arrowhead below and tilde||
+|---
+|[[Ō͔|Ō͔ ō͔]]||O with left arrowhead below and macron||
+|---
+|[[O̜|O̜ o̜]]||O with left half ring below||
+|---
+|[[O̹|O̹ o̹]]||O with right half ring below||
+|---
+|[[Ó̹|Ó̹ ó̹]]||O with right half ring below and acute||
+|---
+|[[O̲|O̲ o̲]]||O with underline||
+|---
+|[[ᴓ]]||Sideways O with stroke||&nbsp;
+|---
+|[[ᶗ]]||Open O with retroflex hook||&nbsp;
+|---
+|[[Ꝍ|Ꝍ ꝍ]]||O with loop||[[Old Norwegian|Medieval Nordic]] vowel {{IPA|/ǫ/}}, {{IPA|/øː/}}, and {{IPA|/ey/}}<ref name="n2957"/>
+|---
+|[[ⱺ]]||O with low ring inside||UPA
+|---
+|[[Ꝋ|Ꝋ ꝋ]]||O with long stroke overlay||&nbsp;
+|---
+|[[Ɔ́|Ɔ́ ɔ́]]||Open O with acute||
+|---
+|[[Ɔ̀|Ɔ̀ ɔ̀]]||Open O with grave||
+|---
+|[[Ɔ̂|Ɔ̂ ɔ̂]]||Open O with circumflex||
+|---
+|[[Ɔ̌|Ɔ̌ ɔ̌]]||Open O with caron||
+|---
+|[[Ɔ̃|Ɔ̃ ɔ̃]]||Open O with tilde||
+|---
+|[[Ɔ̃́|Ɔ̃́ ɔ̃́]]||Open O with tilde and acute||
+|---
+|[[Ɔ̃̀|Ɔ̃̀ ɔ̃̀]]||Open O with tilde and grave||
+|---
+|[[Ɔ̃̂|Ɔ̃̂ ɔ̃̂]]||Open O with tilde and circumflex||
+|---
+|[[Ɔ̃̌|Ɔ̃̌ ɔ̃̌]]||Open O with tilde and caron||
+|---
+|[[Ɔ̃̍|Ɔ̃̍ ɔ̃̍]]||Open O with tilde and vertical line||
+|---
+|[[Ɔ̃̎|Ɔ̃̎ ɔ̃̎]]||Open O with tilde and double vertical line||
+|---
+|[[Ɔ̄|Ɔ̄ ɔ̄]]||Open O with macron||
+|---
+|[[Ɔ̆|Ɔ̆ ɔ̆]]||Open O with breve||
+|---
+|[[Ɔ̇|Ɔ̇ ɔ̇]]||Open O with dot above||
+|---
+|[[Ɔ̈|Ɔ̈ ɔ̈]]||Open O with diaeresis||
+|---
+|[[Ɔ̈̀|Ɔ̈̀ ɔ̈̀]]||Open O with diaeresis and grave||
+|---
+|[[Ɔ̈́|Ɔ̈́ ɔ̈́]]||Open O with diaeresis and acute||
+|---
+|[[Ɔ̈̂|Ɔ̈̂ ɔ̈̂]]||Open O with diaeresis and circumflex||
+|---
+|[[Ɔ̈̌|Ɔ̈̌ ɔ̈̌]]||Open O with diaeresis and caron||
+|---
+|[[Ɔ̌|Ɔ̌ ɔ̌]]||Open O with caron||
+|---
+|[[Ɔ̍|Ɔ̍ ɔ̍]]||Open O with vertical line||
+|---
+|[[Ɔ̎|Ɔ̎ ɔ̎]]||Open O with double vertical line||
+|---
+|[[Ɔ̣|Ɔ̣ ɔ̣]]||Open O with dot below||
+|---
+|[[Ɔ̣̀|Ɔ̣̀ ɔ̣̀]]||Open O with dot below and grave||
+|---
+|[[Ɔ̣́|Ɔ̣́ ɔ̣́]]||Open O with dot below and acute||
+|---
+|[[Ɔ̣̂|Ɔ̣̂ ɔ̣̂]]||Open O with dot below and circumflex||
+|---
+|[[Ɔ̣̃|Ɔ̣̃ ɔ̣̃]]||Open O with dot below and tilde||
+|---
+|[[Ɔ̣̈|Ɔ̣̈ ɔ̣̈]]||Open O with dot below and diaeresis||
+|---
+|[[Ɔ̣̈̀|Ɔ̣̈̀ ɔ̣̈̀]]||Open O with dot below, diaeresis, and grave||
+|---
+|[[Ɔ̣̈́|Ɔ̣̈́ ɔ̣̈́]]||Open O with dot below, diaeresis, and acute||
+|---
+|[[Ɔ̣̈̂|Ɔ̣̈̂ ɔ̣̈̂]]||Open O with dot below, diaeresis, and circumflex||
+|---
+|[[Ɔ̣̈̌|Ɔ̣̈̌ ɔ̣̈̌]]||Open O with dot below, diaeresis, and caron||
+|---
+|[[Ɔ̣̌|Ɔ̣̌ ɔ̣̌]]||Open O with dot below and caron||
+|---
+|[[Ɔ̤|Ɔ̤ ɔ̤]]||Open O with diaeresis below||
+|---
+|[[Ɔ̤̀|Ɔ̤̀ ɔ̤̀]]||Open O with diaeresis below and grave||
+|---
+|[[Ɔ̤́|Ɔ̤́ ɔ̤́]]||Open O with diaeresis below and acute||
+|---
+|[[Ɔ̤̂|Ɔ̤̂ ɔ̤̂]]||Open O with diaeresis below and circumflex||
+|---
+|[[Ɔ̤̈|Ɔ̤̈ ɔ̤̈]]||Open O with diaeresis below and diaeresis||
+|---
+|[[Ɔ̱|Ɔ̱ ɔ̱]]||Open O with line below||
+|---
+|[[Ɔ̱̀|Ɔ̱̀ ɔ̱̀]]||Open O with line below and grave||
+|---
+|[[Ɔ̱́|Ɔ̱́ ɔ̱́]]||Open O with line below and acute||
+|---
+|[[Ɔ̱̂|Ɔ̱̂ ɔ̱̂]]||Open O with line below and circumflex||
+|---
+|[[Ɔ̱̌|Ɔ̱̌ ɔ̱̌]]||Open O with line below and caron||
+|---
+|[[Ɔ̱̃|Ɔ̱̃ ɔ̱̃]]||Open O with line below and tilde||
+|---
+|[[Ɔ̱̈|Ɔ̱̈ ɔ̱̈]]||Open O with line below and diaeresis||
+|---
+|[[Ɔ̱̈̀|Ɔ̱̈̀ ɔ̱̈̀]]||Open O with line below, diaeresis, and grave||
+|---
+|[[Ɔ̱̈́|Ɔ̱̈́ ɔ̱̈́]]||Open O with line below, diaeresis, and acute||
+|---
+|[[Ɔ̧|Ɔ̧ ɔ̧]]||Open O with cedilla||
+|---
+|[[Ɔ̧̀|Ɔ̧̀ ɔ̧̀]]||Open O with grave and cedilla||
+|---
+|[[Ɔ̧́|Ɔ̧́ ɔ̧́]]||Open O with acute and cedilla||
+|---
+|[[Ɔ̧̂|Ɔ̧̂ ɔ̧̂]]||Open O with circumflex and cedilla||
+|---
+|[[Ɔ̧̌|Ɔ̧̌ ɔ̧̌]]||Open O with caron and cedilla||
+|---
+|[[Ɔ̨|Ɔ̨ ɔ̨]]{{anchor|open_o_with_ogonek}} ||Open O with ogonek|| Formerly sometimes used in IPA for [[nasalized]] [[ɔ]] <!-- see File:Cursive_IPA_(1949).jpg -->
+|---
+|[[Ɔ̨́|Ɔ̨́ ɔ̨́]]||Open O with ogonek and acute||
+|---
+|[[Ɔ̨̀|Ɔ̨̀ ɔ̨̀]]||Open O with ogonek and grave||
+|---
+|[[Ɔ̨̂|Ɔ̨̂ ɔ̨̂]]||Open O with ogonek and circumflex||
+|---
+|[[Ɔ̨̌|Ɔ̨̌ ɔ̨̌]]||Open O with ogonek and caron||
+|---
+|[[Ɔ̨̄|Ɔ̨̄ ɔ̨̄]]||Open O with ogonek and macron||
+|---
+|[[Ɔ̨̆|Ɔ̨̆ ɔ̨̆]]||Open O with ogonek and breve||
+|---
+|[[Ɔ̨̈|Ɔ̨̈ ɔ̨̈]]||Open O with ogonek and diaeresis||
+|---
+|[[Ɔ̨̱|Ɔ̨̱ ɔ̨̱]]||Open O with ogonek and line below||
+|---
+|[[Ɔ̰|Ɔ̰ ɔ̰]]||Open O with tilde below||
+|---
+|[[Ɔ̰̀|Ɔ̰̀ ɔ̰̀]]||Open O with tilde below and grave||
+|---
+|[[Ɔ̰́|Ɔ̰́ ɔ̰́]]||Open O with tilde below and acute||
+|---
+|[[Ɔ̰̄|Ɔ̰̄ ɔ̰̄]]||Open O with tilde below and macron||
+|---
+|[[P̀|P̀ p̀]]||P with grave||ISO 9
+|---
+|[[Ṕ|Ṕ ṕ]]||P with acute||&nbsp;
+|---
+|[[P̃|P̃ p̃]]||P with tilde||
+|---
+|[[P̄|P̄ p̄]]||P with macron||
+|---
+|[[P̆|P̆ p̆]]||P with breve||
+|---
+|[[Ṗ|Ṗ ṗ]]||P with dot above||&nbsp;
+|---
+|[[P̈|P̈ p̈]]||P with diaeresis||
+|---
+|[[P̋|P̋ p̋]]||P with double acute||
+|---
+|[[P̑|P̑ p̑]]||P with inverted breve||
+|---
+|[[P̓|P̓ p̓]]||P with comma above||
+|---
+|[[P̕|P̕ p̕]]||P with comma above right||
+|---
+|[[P̔|P̔ p̔]]||P with reversed comma above||
+|---
+|[[P͑|P͑ p͑]]||P with left half ring above||
+|---
+|[[P̱|P̱ p̱]]||P with line below||
+|---
+|[[P̣|P̣ p̣]]||P with dot below||
+|---
+|[[P̤|P̤ p̤]]||P with diaeresis below||
+|---
+|[[P̬|P̬ p̬]]||P with caron below||
+|---
+|[[Ᵽ|Ᵽ ᵽ]]||P with stroke||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Ꝑ|Ꝑ ꝑ]]||P with stroke through descender||&nbsp;
+|---
+|[[ᵱ]]||P with middle tilde||&nbsp;
+|---
+|[[ᶈ]]||P with palatal hook||&nbsp;
+|---
+|[[Ƥ|Ƥ ƥ]]||P with hook||&nbsp;
+|---
+|[[Ꝓ|Ꝓ ꝓ]]||P with flourish||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Ꝕ|Ꝕ ꝕ]]||P with squirrel tail||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Small caps|ᴘ̇]]||Small capital P with dot above||
+|---
+|[[Q́|Q́ q́]]||Q with acute||
+|---
+|[[Q̃|Q̃ q̃]]||Q with tilde||
+|---
+|[[Q̄|Q̄ q̄]]||Q with macron||
+|---
+|[[Q̇|Q̇ q̇]]||Q with dot above||
+|---
+|[[Q̈|Q̈ q̈]]||Q with diaeresis||
+|---
+|[[Q̋|Q̋ q̋]]||Q with double acute||
+|---
+|[[Q̓|Q̓ q̓]]||Q with comma above||
+|---
+|[[Q̕|Q̕ q̕]]||Q with comma above right||
+|---
+|[[Q̧|Q̧ q̧]]||Q with cedilla||
+|---
+|[[Q̣|Q̣ q̣]]||Q with dot below||
+|---
+|[[Q̣̇|Q̣̇ q̣̇]]||Q with dot below and dot above||
+|---
+|[[Q̣̈|Q̣̈ q̣̈]]||Q with dot below and diaeresis||
+|---
+|[[Q̱|Q̱ q̱]]||Q with line below||
+|---
+|[[Ꝗ|Ꝗ ꝗ]]||Q with stroke through descender||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Ꝗ̃|Ꝗ̃ ꝗ̃]]||Q with stroke through descender and tilde||
+|---
+|[[Ꝙ|Ꝙ ꝙ]]||Q with diagonal stroke||Medieval abbreviations<ref name="n2957" />
+|---
+|[[ʠ]]||Q with hook||&nbsp;
+|---
+|[[Ɋ|Ɋ ɋ]]||Q with hook tail||&nbsp;
+|---
+|[[R̀|R̀ r̀]]||R with grave||
+|---
+|[[Ŕ|Ŕ ŕ]]||R with acute||Slovak
+|---
+|[[R̂|R̂ r̂]]||R with circumflex||
+|---
+|[[R̃|R̃ r̃]]||R with tilde||
+|---
+|[[R̄|R̄ r̄]]||R with macron||
+|---
+|[[R̆|R̆ r̆]]||R with breve||&nbsp;
+|---
+|[[Ṙ|Ṙ ṙ]]||R with dot above||&nbsp;
+|---
+|[[R̋|R̋ r̋]]||R with double acute||
+|---
+|[[Ř|Ř ř]]||R with caron||Czech
+|---
+|[[R̍|R̍ r̍]]||R with vertical line||
+|---
+|[[Ȑ|Ȑ ȑ]]||R with double grave||&nbsp;
+|---
+|[[Ȓ|Ȓ ȓ]]||R with inverted breve||&nbsp;
+|---
+|[[R̓|R̓ r̓]]||R with comma above||
+|---
+|[[R̕|R̕ r̕]]||R with comma above right||
+|---
+|[[Ŗ|Ŗ ŗ]]||R with cedilla||Pre-1946 Latvian letter, still sometimes used in some non-standard orthographies
+|---
+|[[R̦|R̦ r̦]]||R with comma below||
+|---
+|[[R̨|R̨ r̨]]||R with ogonek||
+|---
+|[[R̨̄|R̨̄ r̨̄]]||R with ogonek and macron||
+|---
+|[[Ꞧ|Ꞧ ꞧ]]||R with oblique stroke||Pre-1921 Latvian letter
+|---
+|[[R̭|R̭ r̭]]||R with circumflex below||
+|---
+|[[Ṟ|Ṟ ṟ]]||R with line below||&nbsp;
+|---
+|[[Ṛ|Ṛ ṛ]]||R with dot below||&nbsp;
+|---
+|[[Ṛ̀|Ṛ̀ ṛ̀]]||R with dot below and grave||
+|---
+|[[Ṛ́|Ṛ́ ṛ́]]||R with dot below and acute||
+|---
+|[[Ṝ|Ṝ ṝ]]||R with dot below and macron||&nbsp;
+|---
+|[[Ṝ́|Ṝ́ ṝ́]]||R with dot below and macron and acute||
+|---
+|[[Ṝ̃|Ṝ̃ ṝ̃]]||R with dot below and macron and tilde||
+|---
+|[[Ṝ̆|Ṝ̆ ṝ̆]]||R with dot below and macron and breve||
+|---
+|[[R̤|R̤ r̤]]||R with diaeresis below||
+|---
+|[[R̥|R̥ r̥]]||R with ring below||
+|---
+|[[R̥̀|R̥̀ r̥̀]]||R with ring below and grave||
+|---
+|[[Ŕ̥|Ŕ̥ ŕ̥]]||R with ring below and acute||
+|---
+|[[R̥̂|R̥̂ r̥̂]]||R with ring below and circumflex||
+|---
+|[[R̥̃|R̥̃ r̥̃]]||R with ring below and tilde||
+|---
+|[[R̥̄|R̥̄ r̥̄]]||R with ring below and macron||
+|---
+|[[R̥̄́|R̥̄́ r̥̄́]]||R with ring below and macron and acute||
+|---
+|[[R̥̄̆|R̥̄̆ r̥̄̆]]||R with ring below and macron and breve||
+|---
+|[[Ř̥|Ř̥ ř̥]]||R with ring below and caron||
+|---
+|[[R̬|R̬ r̬]]||R with caron below||
+|---
+|[[R̩|R̩ r̩]]||R with vertical line below||
+|---
+|[[R̯|R̯ r̯]]||R with inverted breve below||
+|---
+|[[Ɍ|Ɍ ɍ]]||R with stroke||&nbsp;
+|---
+|[[ᵲ]]||R with middle tilde||&nbsp;
+|---
+|[[ɺ]]||Turned R with long leg||[[Alveolar lateral flap]]
+|---
+|[[ᶉ]]||R with palatal hook||&nbsp;
+|---
+|[[ɻ]]||Turned R with hook||[[Retroflex approximant]]
+|---
+|[[ⱹ]]||Turned R with tail||UPA
+|---
+|[[ɼ]]||R with long leg||&nbsp;
+|---
+|[[Ɽ|Ɽ ɽ]]||R with tail||[[Retroflex flap]]
+|---
+|[[ɾ]]||R with fishhook||[[Alveolar flap]]
+|---
+|[[ᵳ]]||R with fishhook and middle tilde||&nbsp;
+|---
+|[[ɿ]]||Reversed R with fishhook||&nbsp;
+|---
+|[[Small caps|ʀ̇]]||Small capital R with dot above||
+|---
+|[[Small caps|ʀ̣]]||Small capital R with dot below||
+|---
+|[[Ꝛ́|Ꝛ́ ꝛ́]]||R rotunda with acute||
+|---
+|[[Ꝛ̣|Ꝛ̣ ꝛ̣]]||R rotunda with dot below||
+|---
+|[[S̀|S̀ s̀]]||S with grave||
+|---
+|[[Ś|Ś ś]]||S with acute||Polish, Sanskrit transliteration
+|---
+|[[Ś̀|Ś̀ ś̀]]||S with acute and grave||
+|---
+|[[Ś|Ś ś]]||S with acute and comma above right||
+|---
+|[[Ṥ|Ṥ ṥ]]||S with acute and dot above||&nbsp;
+|---
+|[[Ŝ|Ŝ ŝ]]||S with circumflex||Esperanto
+|---
+|[[S̃|S̃ s̃]]||S with tilde||
+|---
+|[[S̄|S̄ s̄]]||S with macron||
+|---
+|[[S̆|S̆ s̆]]||S with breve||
+|---
+|[[Ṡ|Ṡ ṡ]]||S with dot above||&nbsp;
+|---
+|[[Ṡ̃|Ṡ̃ ṡ̃]]||S with dot above and tilde||
+|---
+|[[S̈|S̈ s̈]]||S with diaeresis||
+|---
+|[[S̋|S̋ s̋]]||S with double acute||
+|---
+|[[Š|Š š]]||S with caron||Czech, Slovak, Croatian, Slovenian, Sorbian, Lithuanian, Latvian, Estonian, Bosnian
+|---
+|[[Š̀|Š̀ š̀]]||S with caron and grave||
+|---
+|[[Š́|Š́ š́]]||S with caron and acute||
+|---
+|[[Ṧ|Ṧ ṧ]]||S with caron and dot above||&nbsp;
+|---
+|[[Š̓|Š̓ š̓]]||S with caron and comma above||
+|---
+|[[S̑|S̑ s̑]]||S with inverted breve||
+|---
+|[[S̓|S̓ s̓]]||S with comma above||
+|---
+|[[S̕|S̕ s̕]]||S with comma above right||
+|---
+|[[Ş|Ş ş]]||S with cedilla||&nbsp;
+|---
+|[[Ș|Ș ș]]||S with comma below||Romanian, cf. [[Romanian alphabet#Comma-below .28.C8.99 and .C8.9B.29 versus cedilla .28.C5.9F and .C5.A3.29|comma-below versus cedilla]]
+|---
+|[[S̨|S̨ s̨]]||S with ogonek||
+|---
+|[[Š̨|Š̨ š̨]]||S with ogonek and caron||
+|---
+|[[Ꞩ|Ꞩ ꞩ]]||S with oblique stroke||Pre-1921 Latvian letter; pre-1950 Lower Sorbian letter
+|---
+|[[S̱|S̱ s̱]]||S with line below||
+|---
+|[[Ś̱|Ś̱ ś̱]]||S with line below and acute||
+|---
+|[[S̮|S̮ s̮]]||S with breve below||
+|---
+|[[Ṣ|Ṣ ṣ]]||S with dot below||&nbsp;
+|---
+|[[Ṣ́|Ṣ́ ṣ́]]||S with dot below and acute||
+|---
+|[[Ṣ̄|Ṣ̄ ṣ̄]]||S with dot below and macron||
+|---
+|[[Ṩ|Ṩ ṩ]]||S with dot below and dot above||&nbsp;
+|---
+|[[Ṣ̌|Ṣ̌ ṣ̌]]||S with dot below and caron||
+|---
+|[[Ṣ̕|Ṣ̕ ṣ̕]]||S with dot below and comma above right||
+|---
+|[[Ṣ̱|Ṣ̱ ṣ̱]]||S with dot below and line below||
+|---
+|[[S̤|S̤ s̤]]||S with diaeresis below||
+|---
+|[[Š̤|Š̤ š̤]]||S with diaeresis below and caron||
+|---
+|[[S̥|S̥ s̥]]||S with ring below||
+|---
+|[[Ś̥|Ś̥ ś̥]]||S with ring below and acute||
+|---
+|[[S̬|S̬ s̬]]||S with caron below||
+|---
+|[[S̩|S̩ s̩]]||S with vertical line below||
+|---
+|[[S̪|S̪ s̪]]||S with bridge below||
+|---
+|[[Small caps|ꜱ̇]]||Small capital S with dot above||
+|---
+|[[Small caps|ꜱ̣]]||Small capital S with dot below||
+|---
+|[[ſ́]]||Long s with acute||
+|---
+|[[ẛ]]||Long s with dot above||&nbsp;
+|---
+|[[ſ̣]]||Long s with dot below||
+|---
+|[[ᵴ]]||S with middle tilde||&nbsp;
+|---
+|[[ᶊ]]||S with palatal hook||&nbsp;
+|---
+|[[ʂ]]||S with hook||[[Voiceless retroflex fricative]]
+|---
+|[[Ȿ|Ȿ ȿ]]||S with swash tail||[[Shona language|Shona]]
+|---
+|[[ẜ]]||Long S with diagonal stroke||Pre-1921 Latvian letter; pre-1950 Lower Sorbian letter
+|---
+|[[ẝ]]||Long S with high stroke||&nbsp;
+|---
+|[[ᶋ]]||Esh with palatal hook||&nbsp;
+|---
+|[[ᶘ]]||Esh with retroflex hook||&nbsp;
+|---
+|[[ʆ]]||Esh with curl||&nbsp;
+|---
+|[[T̀|T̀ t̀]]||T with grave||
+|---
+|[[T́|T́ t́]]||T with acute||
+|---
+|[[T̃|T̃ t̃]]||T with tilde||
+|---
+|[[T̄|T̄ t̄]]||T with macron||
+|---
+|[[T̆|T̆ t̆]]||T with breve||
+|---
+|[[T̆̀|T̆̀ t̆̀]]||T with breve and grave||
+|---
+|[[Ṫ|Ṫ ṫ]]||T with dot above||&nbsp;
+|---
+|[[ẗ|T̈ ẗ]]||T with diaeresis||&nbsp;
+|---
+|[[Ť|Ť ť]]||T with caron||&nbsp;
+|---
+|[[T̑|T̑ t̑]]||T with inverted breve||
+|---
+|[[T̓|T̓ t̓]]||T with comma above||
+|---
+|[[T̕|T̕ t̕]]||T with comma above right||
+|---
+|[[T̔|T̔ t̔]]||T with reversed comma above||
+|---
+|[[T͑|T͑ t͑]]||T with left half ring above||
+|---
+|[[Ţ|Ţ ţ]]||T with cedilla||&nbsp;
+|---
+|[[Ț|Ț ț]]||T with comma below||Romanian
+|---
+|[[T̨|T̨ t̨]]||T with ogonek||
+|---
+|[[T̗|T̗ t̗]]||T with acute below||
+|---
+|[[Ṱ|Ṱ ṱ]]||T with circumflex below||&nbsp;
+|---
+|[[T̰|T̰ t̰]]||T with tilde below||
+|---
+|[[Ṯ|Ṯ ṯ]]||T with line below||&nbsp;
+|---
+|[[T̮|T̮ t̮]]||T with breve below||
+|---
+|[[Ṭ|Ṭ ṭ]]||T with dot below||&nbsp;
+|---
+|[[Ṭ́|Ṭ́ ṭ́]]||T with dot below and acute||
+|---
+|[[T̤|T̤ t̤]]||T with diaeresis below||
+|---
+|[[T̥|T̥ t̥]]||T with ring below||
+|---
+|[[T̬|T̬ t̬]]||T with caron below||
+|---
+|[[T̯|T̯ t̯]]||T with inverted breve below||
+|---
+|[[T̪|T̪ t̪]]||T with bridge below||
+|---
+|[[ƾ]]||Inverted glottal stop with stroke||&nbsp;
+|---
+|[[Ŧ|Ŧ ŧ]]||T with stroke||&nbsp;
+|---
+|[[Ⱦ|Ⱦ ⱦ]]||T with diagonal stroke||&nbsp;
+|---
+|[[ᵵ]]||T with middle tilde||&nbsp;
+|---
+|[[ƫ]]||T with palatal hook||&nbsp;
+|---
+|[[Ƭ|Ƭ ƭ]]||T with hook||&nbsp;
+|---
+|[[Ʈ|Ʈ ʈ]]||T with retroflex hook||[[Voiceless retroflex plosive]]
+|---
+|[[ȶ]]||T with curl||&nbsp;
+|---
+|[[Small caps|ᴛ̇]]||Small capital T with dot above||
+|---
+|[[Small caps|ᴛ̣]]||Small capital T with dot below||
+|---
+|[[Ù|Ù ù]]||U with grave||Maltese, Italian
+|---
+|[[Ú|Ú ú]]||U with acute||&nbsp;
+|---
+|[[Û|Û û]]||U with circumflex||&nbsp;
+|---
+|[[Ũ|Ũ ũ]]||U with tilde||&nbsp;
+|---
+|[[Ũ̀|Ũ̀ ũ̀]]||U with tilde and grave||
+|---
+|[[Ṹ|Ṹ ṹ]]||U with tilde and acute||&nbsp;
+|---
+|[[Ũ̂|Ũ̂ ũ̂]]||U with tilde and circumflex||
+|---
+|[[Ũ̊|Ũ̊ ũ̊]]||U with tilde and ring above||
+|---
+|[[Ũ̌|Ũ̌ ũ̌]]||U with tilde and caron||
+|---
+|[[Ũ̍|Ũ̍ ũ̍]]||U with tilde and vertical line||
+|---
+|[[Ũ̎|Ũ̎ ũ̎]]||U with tilde and double vertical line||
+|---
+|[[Ū|Ū ū]]||U with macron||cf. Cyrillic: [[Ӯ|Ӯ ӯ]]
+|---
+|[[Ū̀|Ū̀ ū̀]]||U with macron and grave||
+|---
+|[[Ū́|Ū́ ū́]]||U with macron and acute||
+|---
+|[[Ū̂|Ū̂ ū̂]]||U with macron and circumflex||
+|---
+|[[Ū̌|Ū̌ ū̌]]||U with macron and caron||
+|---
+|[[Ū̃|Ū̃ ū̃]]||U with macron and tilde||
+|---
+|[[Ū̄|Ū̄ ū̄]]||U with macron and macron||Kienning Colloquial Romanized transliteration
+|---
+|[[Ū̆|Ū̆ ū̆]]||U with macron and breve||
+|---
+|[[Ū̆́|Ū̆́ ū̆́]]||U with macron and breve and acute||
+|---
+|[[Ṻ|Ṻ ṻ]]||U with macron and diaeresis||&nbsp;
+|---
+|[[Ū̊|Ū̊ ū̊]]||U with macron and ring above||
+|---
+|[[Ŭ|Ŭ ŭ]]||U with breve||cf. Cyrillic: [[Ў|Ў ў]], Belarusian, Esperanto, Jarai, Latin; previously used in Romanian
+|---
+|[[Ŭ̀|Ŭ̀ ŭ̀]]||U with breve and grave||
+|---
+|[[Ŭ́|Ŭ́ ŭ́]]||U with breve and acute||
+|---
+|[[U̇|U̇ u̇]]||U with dot above||
+|---
+|[[U̇́|U̇́ u̇́]]||U with dot above and acute||
+|---
+|[[U̇̄|U̇̄ u̇̄]]||U with dot above and macron||
+|---
+|[[Ü|Ü ü]]||U with diaeresis||Emiliano-Romagnolo, Estonian, Finnish, German, Luxembourgish, North Frisian, Rotuman, Sami, Saterlandic, Slovak, Tatar, Turkmen, and Ulster-Scots, Hanyu Pinyin; cf. Cyrillic: [[Ӱ|Ӱ ӱ]]
+|---
+|[[Ǜ|Ǜ ǜ]]||U with diaeresis and grave||Fourth tone for yu in Hanyu Pinyin, Zurich German (some spellings)<ref name="fleischerschmid"/>
+|---
+|[[Ǘ|Ǘ ǘ]]||U with diaeresis and acute||Second tone for yu in Hanyu Pinyin
+|---
+|[[Ü̂|Ü̂ ü̂]]||U with diaeresis and circumflex||
+|---
+|[[Ü̃|Ü̃ ü̃]]||U with diaeresis and tilde||
+|---
+|[[Ǖ|Ǖ ǖ]]||U with diaeresis and macron||First tone for yu in Hanyu Pinyin
+|---
+|[[Ǖ̆|Ǖ̆ ǖ̆]]||U with diaeresis and macron and breve||
+|---
+|[[Ü̆|Ü̆ ü̆]]||U with diaeresis and breve||
+|---
+|[[Ǚ|Ǚ ǚ]]||U with diaeresis and caron||Third tone for yu in Hanyu Pinyin
+|---
+|[[Ủ|Ủ ủ]]||U with hook above||Vietnamese
+|---
+|[[Ů|Ů ů]]||U with ring above||&nbsp;
+|---
+|[[Ů́|Ů́ ů́]]||U with ring above and acute||
+|---
+|[[Ů̃|Ů̃ ů̃]]||U with ring above and tilde||
+|---
+|[[Ű|Ű ű]]||U with double acute||cf. Cyrillic: [[Ӳ|Ӳ ӳ]], Hungarian
+|---
+|[[Ǔ|Ǔ ǔ]]||U with caron||&nbsp;
+|---
+|[[U̍|U̍ u̍]]||U with vertical line||Pe̍h-ōe-jī, Taiwanese Romanization System and other transliterations of Chinese dialects
+|---
+|[[U̎|U̎ u̎]]||U with double vertical line||
+|---
+|[[Ȕ|Ȕ ȕ]]||U with double grave||&nbsp;
+|---
+|[[Ȗ|Ȗ ȗ]]||U with inverted breve||&nbsp;
+|---
+|[[U̓|U̓ u̓]]||U with comma above||
+|---
+|[[U᷎ |U᷎ u᷎]]||U with ogonek above||
+|---
+|[[Ủ|Ủ ủ]]||U with hook above||Vietnamese
+|---
+|[[Ư|Ư ư]]||U with horn||Jarai, Vietnamese
+|---
+|[[Ứ|Ứ ứ]]||U with horn and acute||Vietnamese
+|---
+|[[Ừ|Ừ ừ]]||U with horn and grave||Vietnamese
+|---
+|[[Ữ|Ữ ữ]]||U with horn and tilde||Vietnamese
+|---
+|[[Ư̆|Ư̆ ư̆]]||U with horn and breve||Jarai
+|---
+|[[Ử|Ử ử]]||U with horn and hook above||Vietnamese
+|---
+|[[Ự|Ự ự]]||U with horn and dot below||Vietnamese
+|---
+|[[U̧|U̧ u̧]]||U with cedilla||
+|---
+|[[Ú̧|Ú̧ ú̧]]||U with acute and cedilla||
+|---
+|[[Ù̧|Ù̧ ù̧]]||U with grave and cedilla||
+|---
+|[[Û̧|Û̧ û̧]]||U with circumflex and cedilla||
+|---
+|[[Ǔ̧|Ǔ̧ ǔ̧]]||U with caron and cedilla||
+|---
+|[[Ų|Ų ų]]||U with ogonek||Lithuanian
+|---
+|[[Ų̀|Ų̀ ų̀]]||U with ogonek and grave||
+|---
+|[[Ų́|Ų́ ų́]]||U with ogonek and acute||
+|---
+|[[Ų̂|Ų̂ ų̂]]||U with ogonek and circumflex||
+|---
+|[[Ų̌|Ų̌ ų̌]]||U with ogonek and caron||
+|---
+|[[Ų̄|Ų̄ ų̄]]||U with ogonek and macron||
+|---
+|[[Ų̄́|Ų̄́ ų̄́]]||U with ogonek, macron, and acute||
+|---
+|[[Ų̄̀|Ų̄̀ ų̄̀]]||U with ogonek, macron, and grave||
+|---
+|[[Ų̄̂|Ų̄̂ ų̄̂]]||U with ogonek, macron, and circumflex||
+|---
+|[[Ų̄̌|Ų̄̌ ų̄̌]]||U with ogonek, macron, and breve||
+|---
+|[[Ų̄̌|Ų̄̌ ų̄̌]]||U with ogonek, macron, and caron||
+|---
+|[[Ų̈|Ų̈ ų̈]]||U with ogonek and diaeresis||
+|---
+|[[Ų̈́|Ų̈́ ų̈́]]||U with ogonek, diaeresis, and acute||
+|---
+|[[Ų̈̀|Ų̈̀ ų̈̀]]||U with ogonek, diaeresis, and grave||
+|---
+|[[Ų̈̂|Ų̈̂ ų̈̂]]||U with ogonek, diaeresis, and circumflex||
+|---
+|[[Ų̈̌|Ų̈̌ ų̈̌]]||U with ogonek, diaeresis, and caron||
+|---
+|[[Ų̈̄|Ų̈̄ ų̈̄]]||U with ogonek, diaeresis, and macron||
+|---
+|[[Ų̋|Ų̋ ų̋]]||U with ogonek and double acute||
+|---
+|[[Ų̱|Ų̱ ų̱]]||U with ogonek and line below||
+|---
+|[[Ų̱́|Ų̱́ ų̱́]]||U with ogonek, line below, and acute||
+|---
+|[[Ų̱̀|Ų̱̀ ų̱̀]]||U with ogonek, line below, and grave||
+|---
+|[[Ṷ|Ṷ ṷ]]||U with circumflex below||&nbsp;
+|---
+|[[Ṵ|Ṵ ṵ]]||U with tilde below||&nbsp;
+|---
+|[[Ṵ̀|Ṵ̀ ṵ̀]]||U with tilde below and grave||
+|---
+|[[Ṵ́|Ṵ́ ṵ́]]||U with tilde below and acute||
+|---
+|[[Ṵ̄|Ṵ̄ ṵ̄]]||U with tilde below and macron||
+|---
+|[[Ṵ̈|Ṵ̈ ṵ̈]]||U with tilde below and diaeresis||
+|---
+|[[U̱|U̱ u̱]]||U with line below||
+|---
+|[[Ù̱|Ù̱ ù̱]]||U with line below and grave||
+|---
+|[[Ú̱|Ú̱ ú̱]]||U with line below and acute||
+|---
+|[[Û̱|Û̱ û̱]]||U with line below and circumflex||
+|---
+|[[Ũ̱|Ũ̱ ũ̱]]||U with line below and tilde||
+|---
+|[[Ū̱|Ū̱ ū̱]]||U with line below and macron||
+|---
+|[[Ū̱́|Ū̱́ ū̱́]]||U with line below, macron, and acute||
+|---
+|[[Ū̱̀|Ū̱̀ ū̱̀]]||U with line below, macron, and grave||
+|---
+|[[Ū̱̂|Ū̱̂ ū̱̂]]||U with line below, macron, and circumflex||
+|---
+|[[Ü̱|Ü̱ ü̱]]||U with line below and diaeresis||
+|---
+|[[Ǘ̱|Ǘ̱ ǘ̱]]||U with line below, diaeresis, and acute||
+|---
+|[[Ǜ̱|Ǜ̱ ǜ̱]]||U with line below, diaeresis, and grave||
+|---
+|[[Ü̱̂|Ü̱̂ ü̱̂]]||U with line below, diaeresis, and circumflex||
+|---
+|[[Ǚ̱|Ǚ̱ ǚ̱]]||U with line below, diaeresis, and caron||
+|---
+|[[Ǔ̱|Ǔ̱ ǔ̱]]||U with line below and caron||
+|---
+|[[Ụ|Ụ ụ]]||U with dot below||Vietnamese
+|---
+|[[Ụ̀|Ụ̀ ụ̀]]||U with dot below and grave||
+|---
+|[[Ụ́|Ụ́ ụ́]]||U with dot below and acute||
+|---
+|[[Ụ̂|Ụ̂ ụ̂]]||U with dot below and circumflex||
+|---
+|[[Ụ̃|Ụ̃ ụ̃]]||U with dot below and tilde||
+|---
+|[[Ụ̄|Ụ̄ ụ̄]]||U with dot below and macron||
+|---
+|[[Ụ̈|Ụ̈ ụ̈]]||U with dot below and diaeresis||
+|---
+|[[Ụ̈̀|Ụ̈̀ ụ̈̀]]||U with dot below, diaeresis, and grave||
+|---
+|[[Ụ̈́|Ụ̈́ ụ̈́]]||U with dot below, diaeresis, and acute||
+|---
+|[[Ụ̈̂|Ụ̈̂ ụ̈̂]]||U with dot below, diaeresis, and circumflex||
+|---
+|[[Ụ̈̌|Ụ̈̌ ụ̈̌]]||U with dot below, diaeresis, and caron||
+|---
+|[[Ụ̌|Ụ̌ ụ̌]]||U with dot below and caron||
+|---
+|[[Ụ̍|Ụ̍ ụ̍]]||U with dot below and vertical line||
+|---
+|[[Ṳ|Ṳ ṳ]]||U with diaeresis below||&nbsp;
+|---
+|[[Ṳ̀|Ṳ̀ ṳ̀]]||U with diaeresis below and grave||
+|---
+|[[Ṳ́|Ṳ́ ṳ́]]||U with diaeresis below and acute||
+|---
+|[[Ṳ̂|Ṳ̂ ṳ̂]]||U with diaeresis below and circumflex||
+|---
+|[[Ṳ̈|Ṳ̈ ṳ̈]]||U with diaeresis below and diaeresis||
+|---
+|[[U̥|U̥ u̥]]||U with ring below||
+|---
+|[[Ü̥|Ü̥ ü̥]]||U with ring below and diaeresis||
+|---
+|[[U̯|U̯ u̯]]||U with inverted breve below||
+|---
+|[[Ũ̯|Ũ̯ ũ̯]]||U with inverted breve below and tilde||
+|---
+|[[Ü̯|Ü̯ ü̯]]||U with inverted breve below and diaeresis||
+|---
+|[[U̩|U̩ u̩]]||U with vertical line below||
+|---
+|[[U͔|U͔ u͔]]||U with left arrowhead below||
+|---
+|[[Ũ͔|Ũ͔ ũ͔]]||U with left arrowhead below and tilde||
+|---
+|[[Ū͔|Ū͔ ū͔]]||U with left arrowhead below and macron||
+|---
+|[[Ʉ|Ʉ ʉ]]||U bar||[[Close central rounded vowel]]
+|---
+|[[Ʉ̀|Ʉ̀ ʉ̀]]||U bar with grave||
+|---
+|[[Ʉ́|Ʉ́ ʉ́]]||U bar with acute||
+|---
+|[[Ʉ̂|Ʉ̂ ʉ̂]]||U bar with circumflex||
+|---
+|[[Ʉ̃|Ʉ̃ ʉ̃]]||U bar with tilde||
+|---
+|[[Ʉ̄|Ʉ̄ ʉ̄]]||U bar with macron||
+|---
+|[[Ʉ̈|Ʉ̈ ʉ̈]]||U bar with diaeresis||
+|---
+|[[Ʉ̌|Ʉ̌ ʉ̌]]||U bar with caron||
+|---
+|[[Ʉ̧|Ʉ̧ ʉ̧]]||U bar with cedilla||
+|---
+|[[Ʉ̰|Ʉ̰ ʉ̰]]||U bar with tilde below||
+|---
+|[[Ʉ̰́|Ʉ̰́ ʉ̰́]]||U bar with tilde below and acute||
+|---
+|[[Ʉ̱|Ʉ̱ ʉ̱]]||U bar with line below||
+|---
+|[[Ʉ̱́|Ʉ̱́ ʉ̱́]]||U bar with line below and acute||
+|---
+|[[Ʉ̱̀|Ʉ̱̀ ʉ̱̀]]||U bar with line below and grave||
+|---
+|[[Ʉ̱̂|Ʉ̱̂ ʉ̱̂]]||U bar with line below and circumflex|||
+|---
+|[[Ʉ̱̈|Ʉ̱̈ ʉ̱̈]]||U bar with line below and diaeresis||
+|---
+|[[Ʉ̱̌|Ʉ̱̌ ʉ̱̌]]||U bar with line below and caron|
+|---
+|[[Ʉ̥|Ʉ̥ ʉ̥]]||U bar with ring below||
+|---
+|[[ᵾ]]||Small capital U with stroke||&nbsp;
+|---
+|[[ᶙ]]||U with retroflex hook||&nbsp;
+|---
+|[[ʮ]]||Turned H with fishhook||&nbsp;
+|---
+|[[ʯ]]||Turned H with fishhook and tail||&nbsp;
+|---
+|[[ɰ]]||Turned M with long leg||[[Velar approximant]]
+|---
+|[[Ʊ̀|Ʊ̀ ʊ̀]]||Upsilon with grave||
+|---
+|[[Ʊ́|Ʊ́ ʊ́]]||Upsilon with acute||
+|---
+|[[Ʊ̃|Ʊ̃ ʊ̃]]||Upsilon with tilde||
+|---
+|[[ᵿ]]||Upsilon with stroke||&nbsp;
+|---
+|[[V̀|V̀ v̀]]||V with grave||
+|---
+|[[V́|V́ v́]]||V with acute||
+|---
+|[[V̂|V̂ v̂]]||V with circumflex||
+|---
+|[[Ṽ|Ṽ ṽ]]||V with tilde||&nbsp;
+|---
+|[[Ṽ̀|Ṽ̀ ṽ̀]]||V with tilde and grave||
+|---
+|[[Ṽ́|Ṽ́ ṽ́]]||V with tilde and acute||
+|---
+|[[Ṽ̂|Ṽ̂ ṽ̂]]||V with tilde and circumflex||
+|---
+|[[Ṽ̌|Ṽ̌ ṽ̌]]||V with tilde and caron||
+|---
+|[[V̄|V̄ v̄]]||V with macron||
+|---
+|[[V̄̀|V̄̀ v̄̀]]||V with macron and grave||
+|---
+|[[V̄́|V̄́ v̄́]]||V with macron and acute||
+|---
+|[[V̄̂|V̄̂ v̄̂]]||V with macron and circumflex||
+|---
+|[[V̄̃|V̄̃ v̄̃]]||V with macron and tilde||
+|---
+|[[V̄̄|V̄̄ v̄̄]]||V with macron and macron||
+|---
+|[[V̄̆|V̄̆ v̄̆]]||V with macron and breve||
+|---
+|[[V̄̌|V̄̌ v̄̌]]||V with macron and caron||
+|---
+|[[V̆|V̆ v̆]]||V with breve||
+|---
+|[[V̆́|V̆́ v̆́]]||V with breve and acute||
+|---
+|[[V̇|V̇ v̇]]||V with dot above||
+|---
+|[[V̈|V̈ v̈]]||V with diaeresis||
+|---
+|[[V̈̀|V̈̀ v̈̀]]||V with diaeresis and grave||
+|---
+|[[V̈́|V̈́ v̈́]]||V with diaeresis and acute||
+|---
+|[[V̈̂|V̈̂ v̈̂]]||V with diaeresis and circumflex||
+|---
+|[[V̈̄|V̈̄ v̈̄]]||V with diaeresis and macron||
+|---
+|[[V̈̌|V̈̌ v̈̌]]||V with diaeresis and caron||
+|---
+|[[V̊|V̊ v̊]]||V with ring above||
+|---
+|[[V̋|V̋ v̋]]||V with double acute||
+|---
+|[[V̌|V̌ v̌]]||V with caron||
+|---
+|[[V̍|V̍ v̍]]||V with vertical line||
+|---
+|[[V̏|V̏ v̏]]||V with double grave||
+|---
+|[[V̐|V̐ v̐]]||V with chandrabindu||
+|---
+|[[V̓|V̓ v̓]]||V with comma above||
+|---
+|[[V̧|V̧ v̧]]||V with cedilla||
+|---
+|[[V̨|V̨ v̨]]||V with ogonek||
+|---
+|[[V̨̀|V̨̀ v̨̀]]||V with ogonek and grave||
+|---
+|[[V̨́|V̨́ v̨́]]||V with ogonek and acute||
+|---
+|[[V̨̂|V̨̂ v̨̂]]||V with ogonek and circumflex||
+|---
+|[[V̨̌|V̨̌ v̨̌]]||V with ogonek and caron||
+|---
+|[[V̨̄|V̨̄ v̨̄]]||V with ogonek and macron||
+|---
+|[[V̨̄́|V̨̄́ v̨̄́]]||V with ogonek, macron, and acute||
+|---
+|[[V̨̄̀|V̨̄̀ v̨̄̀]]||V with ogonek, macron, and grave||
+|---
+|[[V̨̄̂|V̨̄̂ v̨̄̂]]||V with ogonek, macron, and circumflex||
+|---
+|[[V̨̄̌|V̨̄̌ v̨̄̌]]||V with ogonek, macron, and caron||
+|---
+|[[V̨̈|V̨̈ v̨̈]]||V with ogonek and diaeresis||
+|---
+|[[V̨̈́|V̨̈́ v̨̈́]]||V with ogonek, diaeresis, and acute||
+|---
+|[[V̨̈̀|V̨̈̀ v̨̈̀]]||V with ogonek, diaeresis, and grave||
+|---
+|[[V̨̈̂|V̨̈̂ v̨̈̂]]||V with ogonek, diaeresis, and circumflex||
+|---
+|[[V̨̈̌|V̨̈̌ v̨̈̌]]||V with ogonek, diaeresis, and caron||
+|---
+|[[V̨̈̄|V̨̈̄ v̨̈̄]]||V with ogonek, diaeresis, and macron||
+|---
+|[[V̨̋|V̨̋ v̨̋]]||V with ogonek and double acute||
+|---
+|[[V̨̱|V̨̱ v̨̱]]||V with ogonek and line below||
+|---
+|[[V̨̱́|V̨̱́ v̨̱́]]||V with ogonek, line below, and acute||
+|---
+|[[V̨̱̀|V̨̱̀ v̨̱̀]]||V with ogonek, line below, and grave||
+|---
+|[[V̨̱̂|V̨̱̂ v̨̱̂]]||V with ogonek, line below, and circumflex||
+|---
+|[[V̨̱̌|V̨̱̌ v̨̱̌]]||V with ogonek, line below, and caron||
+|---
+|[[V̱|V̱ v̱]]||V with line below||
+|---
+|[[V̱̀|V̱̀ v̱̀]]||V with line below and grave||
+|---
+|[[V̱́|V̱́ v̱́]]||V with line below and acute||
+|---
+|[[V̱̂|V̱̂ v̱̂]]||V with line below and circumflex||
+|---
+|[[V̱̌|V̱̌ v̱̌]]||V with line below and caron||
+|---
+|[[Ṽ̱|Ṽ̱ ṽ̱]]||V with line below and tilde||
+|---
+|[[V̱̈|V̱̈ v̱̈]]||V with line below and diaeresis||
+|---
+|[[V̱̈́|V̱̈́ v̱̈́]]||V with line below, diaeresis, and acute||
+|---
+|[[V̱̈̀|V̱̈̀ v̱̈̀]]||V with line below, diaeresis, and grave||
+|---
+|[[V̱̈̂|V̱̈̂ v̱̈̂]]||V with line below, diaeresis, and circumflex||
+|---
+|[[V̱̈̌|V̱̈̌ v̱̈̌]]||V with line below, diaeresis, and caron||
+|---
+|[[Ṿ|Ṿ ṿ]]||V with dot below||
+|---
+|[[V̥|V̥ v̥]]||V with ring below||
+|---
+|[[Ꝟ|Ꝟ ꝟ]]||V with diagonal stroke||Medieval abbreviations<ref name="n2957" />
+|---
+|[[ᶌ]]||V with palatal hook||&nbsp;
+|---
+|[[Ʋ|Ʋ ʋ]]||V with hook (Script V)||[[Labiodental approximant]]
+|---
+|[[Ʋ̀|Ʋ̀ ʋ̀]]||V with hook (Script V) with grave||
+|---
+|[[Ʋ́|Ʋ́ ʋ́]]||V with hook (Script V) with acute||
+|---
+|[[Ʋ̃|Ʋ̃ ʋ̃]]||V with hook (Script V) with tilde||
+|---
+|[[ⱱ]]||V with right hook||[[Labiodental flap]]
+|---
+|[[ⱴ]]||V with curl||&nbsp;
+|---
+|[[Ꝩ́|Ꝩ́ ꝩ́]]||Vend with acute||
+|---
+|[[Ꝩ̇|Ꝩ̇ ꝩ̇]]||Vend with dot above||
+|---
+|[[Ꝩ̣|Ꝩ̣ ꝩ̣]]||Vend with dot below||
+|---
+|[[Ẁ|Ẁ ẁ]]||W with grave||&nbsp;
+|---
+|[[Ẃ|Ẃ ẃ]]||W with acute||&nbsp;
+|---
+|[[Ŵ|Ŵ ŵ]]||W with circumflex||[[Chichewa language|Chichewa]], [[Nsenga language|Nsenga]]
+|---
+|[[W̃|W̃ w̃]]||W with tilde||
+|---
+|[[W̄|W̄ w̄]]||W with macron||
+|---
+|[[W̆|W̆ w̆]]||W with breve||
+|---
+|[[Ẇ|Ẇ ẇ]]||W with dot above||&nbsp;
+|---
+|[[Ẅ|Ẅ ẅ]]||W with diaeresis||Welsh
+|---
+|[[ẘ|W̊ ẘ]]||W with ring above||&nbsp;
+|---
+|[[W̋|W̋ w̋]]||W with double acute||
+|---
+|[[W̌|W̌ w̌]]||W with caron||
+|---
+|[[W̍|W̍ w̍]]||W with vertical line||
+|---
+|[[W̓|W̓ w̓]]||W with comma above||
+|---
+|[[W̱|W̱ w̱]]||W with line below||
+|---
+|[[Ẉ|Ẉ ẉ]]||W with dot below||&nbsp;
+|---
+|[[W̥|W̥ w̥]]||W with ring below||
+|---
+|[[W̬|W̬ w̬]]||W with caron below||
+|---
+|[[Ⱳ|Ⱳ ⱳ]]||W with hook||&nbsp;
+|---
+|[[X̀|X̀ x̀]]||X with grave||
+|---
+|[[X́|X́ x́]]||X with acute||
+|---
+|[[X̂|X̂ x̂]]||X with circumflex||
+|---
+|[[X̃|X̃ x̃]]||X with tilde||
+|---
+|[[X̄|X̄ x̄]]||X with macron||
+|---
+|[[X̆|X̆ x̆]]||X with breve||
+|---
+|[[X̆́|X̆́ x̆́]]||X with breve and acute||
+|---
+|[[Ẋ|Ẋ ẋ]]||X with dot above||&nbsp;
+|---
+|[[Ẍ|Ẍ ẍ]]||X with diaeresis||&nbsp;
+|---
+|[[X̊|X̊ x̊]]||X with ring above||
+|---
+|[[X̌|X̌ x̌]]||X with caron||
+|---
+|[[X̓|X̓ x̓]]||X with comma above||
+|---
+|[[X̕|X̕ x̕]]||X with comma above right||
+|---
+|[[X̱|X̱ x̱]]||X with line below||
+|---
+|[[X̱̓|X̱̓ x̱̓]]||X with line below and comma above||
+|---
+|[[X̣|X̣ x̣]]||X with dot below||
+|---
+|[[X̣̓|X̣̓ x̣̓]]||X with dot below and comma above||
+|---
+|[[X̥|X̥ x̥]]||X with ring below||
+|---
+|[[ᶍ]]||X with palatal hook||&nbsp;
+|---
+|[[Ỳ|Ỳ ỳ]]||Y with grave||Vietnamese
+|---
+|[[Ý|Ý ý]]||Y with acute||Czech, Icelandic, Old Norse, Slovak, Vietnamese
+|---
+|[[Ŷ|Ŷ ŷ]]||Y with circumflex||&nbsp;
+|---
+|[[Ỹ|Ỹ ỹ]]||Y with tilde||Vietnamese
+|---
+|[[Ȳ|Ȳ ȳ]]||Y with macron||&nbsp;
+|---
+|[[Ȳ̀|Ȳ̀ ȳ̀]]||Y with macron and grave||
+|---
+|[[Ȳ́|Ȳ́ ȳ́]]||Y with macron and acute||
+|---
+|[[Ȳ̃|Ȳ̃ ȳ̃]]||Y with macron and tilde||
+|---
+|[[Ȳ̆|Ȳ̆ ȳ̆]]||Y with macron and breve||
+|---
+|[[Y̆|Y̆ y̆]]||Y with breve||
+|---
+|[[Y̆̀|Y̆̀ y̆̀]]||Y with breve and grave||
+|---
+|[[Y̆́|Y̆́ y̆́]]||Y with breve and acute||
+|---
+|[[Ẏ|Ẏ ẏ]]||Y with dot above||&nbsp;
+|---
+|[[Ẏ́|Ẏ́ ẏ́]]||Y with dot above and acute||
+|---
+|[[Ÿ|Ÿ ÿ]]||Y with diaeresis||&nbsp;
+|---
+|[[Ÿ́|Ÿ́ ÿ́]]||Y with diaeresis and acute||
+|---
+|[[ẙ|Y̊ ẙ]]||Y with ring above||&nbsp;
+|---
+|[[Y̋|Y̋ y̋]]||Y with double acute||
+|---
+|[[Y̌|Y̌ y̌]]||Y with caron||
+|---
+|[[Y̍|Y̍ y̍]]||Y with vertical line||
+|---
+|[[Y̎|Y̎ y̎]]||Y with double vertical line||
+|---
+|[[Y̐|Y̐ y̐]]||Y with chandrabindu||
+|---
+|[[Y̓|Y̓ y̓]]||Y with comma above||
+|---
+|[[Ỷ|Ỷ ỷ]]||Y with hook above||Vietnamese
+|---
+|[[Y᷎|Y᷎ y᷎]]||Y with ogonek above||
+|---
+|[[Y̱|Y̱ y̱]]||Y with line below||
+|---
+|[[Ỵ|Ỵ ỵ]]||Y with dot below||Vietnamese
+|---
+|[[Ỵ̣|Ỵ̣ ỵ̣]]||Y with colon below||Sogdian transliteration
+|---
+|[[Y̥|Y̥ y̥]]||Y with ring below||
+|---
+|[[Y̯|Y̯ y̯]]||Y with inverted breve below||
+|---
+|[[Ɏ|Ɏ ɏ]]||Y with stroke||&nbsp;
+|---
+|[[Ƴ|Ƴ ƴ]]||Y with hook||&nbsp;
+|---
+|[[Ỿ|Ỿ ỿ]]||Y with loop||Medieval Welsh<ref name="n2957" />
+|---
+|[[Z̀|Z̀ z̀]]||Z with grave||
+|---
+|[[Ź|Ź ź]]||Z with acute||Polish
+|---
+|[[Ẑ|Ẑ ẑ]]||Z with circumflex||&nbsp;
+|---
+|[[Z̃|Z̃ z̃]]||Z with tilde||
+|---
+|[[Z̄|Z̄ z̄]]||Z with macron||
+|---
+|[[Ż|Ż ż]]||Z with dot above||Polish, Maltese
+|---
+|[[Z̈|Z̈ z̈]]||Z with diaeresis||
+|---
+|[[Z̋|Z̋ z̋]]||Z with double acute||
+|---
+|[[Ž|Ž ž]]||Z with caron||Czech, Slovak, Croatian, Slovenian, Lithuanian, Latvian, Bosnian
+|---
+|[[Ž́|Ž́ ž́]]||Z with caron and acute||
+|---
+|[[Ž̏|Ž̏ ž̏]]||Z with caron and double grave||
+|---
+|[[Z̑|Z̑ z̑]]||Z with inverted breve||
+|---
+|[[Z̓|Z̓ z̓]]||Z with comma above||
+|---
+|[[Z̕|Z̕ z̕]]||Z with comma above right||
+|---
+|[[Z̨|Z̨ z̨]]||Z with ogonek||
+|---
+|[[Z̗|Z̗ z̗]]||Z with acute below||
+|---
+|[[Ẕ|Ẕ ẕ]]||Z with line below||&nbsp;
+|---
+|[[Z̮|Z̮ z̮]]||Z with breve below||
+|---
+|[[Ẓ|Ẓ ẓ]]||Z with dot below||&nbsp;
+|---
+|[[Ẓ́|Ẓ́ ẓ́]]||Z with dot below and acute||
+|---
+|[[Ẓ̌|Ẓ̌ ẓ̌]]||Z with dot below and caron||
+|---
+|[[Ẓ̣|Ẓ̣ ẓ̣]]||Z with colon below||Arabic transliteration
+|---
+|[[Z̤|Z̤ z̤]]||Z with diaeresis below||
+|---
+|[[Z̥|Z̥ z̥]]||Z with ring below||
+|---
+|[[Ƶ|Ƶ ƶ]]||Z with stroke||&nbsp;Polish (as an allograph of [[Ż]], used only in uppercase)
+|---
+|[[ᵶ]]||Z with middle tilde||&nbsp;
+|---
+|[[ᶎ]]||Z with palatal hook||&nbsp;
+|---
+|[[Ȥ|Ȥ ȥ]]||Z with hook||&nbsp;
+|---
+|[[ʐ]]||Z with retroflex hook||[[Voiced retroflex fricative]]
+|---
+|[[ʑ]]||Z with curl||[[Voiced alveolo-palatal fricative]]
+|---
+|[[Ɀ|Ɀ ɀ]]||Z with swash tail||[[Shona language|Shona]]
+|---
+|[[Ⱬ|Ⱬ ⱬ]]||Z with descender||Uyghur. c.f. Cyrillic: [[Ҙ|Ҙ ҙ]]
+|---
+|[[Ʒ́|Ʒ́ ʒ́]]||Ezh with acute||
+|---
+|[[Ʒ̇|Ʒ̇ ʒ̇]]||Ezh with dot above||
+|---
+|[[Ǯ|Ǯ ǯ]]||[[Ezh (letter)|Ezh]] with caron||&nbsp;
+|---
+|[[Ǯ́|Ǯ́ ǯ́]]||Ezh with caron and acute||
+|---
+|[[Ʒ̥|Ʒ̥ ʒ̥]]||Ezh with ring below||
+|---
+|[[ᶚ]]||Ezh with retroflex hook||&nbsp;
+|---
+|[[ƺ]]||Ezh with tail||&nbsp;
+|---
+|[[ʓ]]||Ezh with curl||&nbsp;
+|---
+|[[Þ́|Þ́ þ́]]||Thorn with acute||
+|---
+|[[Þ̣|Þ̣ þ̣]]||Thorn with dot below||
+|---
+|[[Ꝥ|Ꝥ ꝥ]]||Thorn with stroke||Medieval abbreviations<ref name="n2957" />
+|---
+|[[Ꝧ|Ꝧ ꝧ]]||Thorn with stroke through descender||Medieval abbreviations<ref name="n2957" />
+|---
+|[[ƻ]]||Two with stroke||&nbsp;
+|---
+|[[Ꜯ|Ꜯ ꜯ]]||Cuatrillo with comma||[[Mayan languages|Mayan]] glottalized alveolar affricate {{IPA|/tsˀ/}}
+|---
+|[[ʡ]]||Glottal stop with stroke||[[Epiglottal plosive]]
+|---
+|[[ʢ]]||Reversed glottal stop with stroke||[[Voiced epiglottal fricative]]
+|}
