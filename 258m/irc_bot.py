@@ -1,23 +1,33 @@
 from json import loads
+from random import randint
+import datetime
 import socket
 
 
+def formatted_time():
+    return "{:%H:%M:%S}".format(datetime.datetime.now())
+
+
 def send_message(sock, msg):
-    print(">" + msg)
-    sock.send(bytes(msg + "\r\n", encoding="utf-8"))
+    print(">" + formatted_time() + " > " + msg)
+    sock.sendall(bytes(msg + "\r\n", encoding="utf-8"))
 
 
 def incoming_messages(sock):
     buffer = ""
 
     while True:
-        buffer += sock.recv(1024).decode("utf-8")
+        delta_buffer = sock.recv(1024).decode("utf-8")
+        if delta_buffer == "":
+            raise StopIteration
+
+        buffer += delta_buffer
 
         if "\r\n" in buffer:
-            messages, buffer = buffer.split("\r\n", maxsplit=1)
+            messages, buffer = buffer.rsplit("\r\n", maxsplit=1)
             messages = messages.split("\r\n")
             for message in messages:
-                print("<" + message)
+                print("<" + formatted_time() + " < " + message)
                 yield message
 
 
@@ -52,8 +62,23 @@ def irc_bot(server, port, nickname, username, realname, initial_servers, join_ms
         else:
             # otherwise, check for a direct message
             if message.startswith(":" + nickname):
-                pass
+                if " JOIN " in message:
+                    chan = message.split(" ")[-1]
+                    send_message(s, "PRIVMSG " + chan + " :" + join_msg)
+            else:
+                # get the message `contents`
+                if ":" in message[1:]:
+                    contents = message[message.index(":", 1):]
+                    if contents.startswith(":@" + nickname + ": random "):
+                        splits = contents.split(" ")
+                        chan = ""
+                        for st in message.split(" "):
+                            if st.startswith("#"):
+                                chan = st
+                                break
 
+                        a, b = int(splits[-2]), int(splits[-1])
+                        send_message(s, "PRIVMSG " + chan + " : Your very random number... " + str(randint(a, b)))
     s.close()
 
 if __name__ == '__main__':
